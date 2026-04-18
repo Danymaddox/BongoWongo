@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.netherite_armor",
+      "fallback": "Any Netherite Armor"
+    },
+    "item": "minecraft:netherite_chestplate"
+  },
+  "objectives": [
+
+    "minecraft:netherite_boots",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_leggings"
+    
+  ]
+}

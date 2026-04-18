@@ -1,0 +1,14 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.simplified.one_of_carpet",
+      "fallback": "Any Carpet"
+    },
+    "item": "minecraft:cyancarpet"
+  },
+  "objectives": [
+    "#minecraft:wool_carpets",
+    "minecraft:moss_carpet"
+  ]
+}

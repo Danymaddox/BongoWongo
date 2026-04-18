@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.banner",
+      "fallback": "Any Banner"
+    },
+    "item": "minecraft:cyan_banner"
+  },
+  "objectives": [
+    "#minecraft:banners"
+  ]
+}

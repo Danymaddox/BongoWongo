@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.basic_buckets",
+      "fallback": "Any Basic Bucket"
+    },
+    "item": "minecraft:bucket"
+  },
+  "objectives": [
+
+    "crittersandcompanions:dumbo_octopus_bucket",
+    "crittersandcompanions:koi_fish_bucket",
+    "crittersandcompanions:sea_bunny_bucket",
+    "crittersandcompanions:sea_bunny_slime_bottle",
+    "minecraft:bucket",
+    "minecraft:cod_bucket",
+    "minecraft:lava_bucket",
+    "minecraft:milk_bucket",
+    "minecraft:powder_snow_bucket",
+    "minecraft:salmon_bucket",
+    "minecraft:water_bucket",
+    "supplementaries:lumisene_bucket"
+
+  ]
+}

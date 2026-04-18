@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.soul_items",
+      "fallback": "Any Soul Item"
+    },
+    "item": "minecraft:soul_sand"
+  },
+  "objectives": [
+
+    "minecraft:dried_ghast",
+    "minecraft:ghast_tear",
+    "minecraft:soul_campfire",
+    "minecraft:soul_lantern",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:soul_torch",
+    "supplementaries:sconce_soul"
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.cookable_food",
+      "fallback": "Any Cookable Food"
+    },
+    "item":     "minecraft:cake"
+  },
+  "objectives": [
+    "minecraft:beef",
+    "minecraft:chicken",
+    "minecraft:cod",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:pufferfish",
+    "minecraft:rabbit",
+    "minecraft:salmon",
+    "minecraft:tropical_fish"
+  ]
+}

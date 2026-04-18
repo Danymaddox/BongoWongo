@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.shulker",
+      "fallback": "Any Shulker Box or Shulker Shell"
+    },
+    "item": "minecraft:cyan_shulker_box"
+  },
+  "objectives": [
+
+    "#c:shulker_boxes",
+    "minecraft:shulker_shell"
+
+  ]
+}

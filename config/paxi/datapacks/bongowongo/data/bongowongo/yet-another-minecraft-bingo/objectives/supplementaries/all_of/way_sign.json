@@ -1,0 +1,39 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_planter_and_way_sign",
+      "fallback": "All Planters and Way Signs"
+    },
+    "item": "supplementaries:item_shelf"
+  },
+  "objectives": [
+
+    "supplementaries:way_sign_oak",
+    "supplementaries:way_sign_spruce",
+    "supplementaries:way_sign_birch",
+    "supplementaries:way_sign_jungle",
+    "supplementaries:way_sign_acacia",
+    "supplementaries:way_sign_dark_oak",
+    "supplementaries:flower_box",
+    "supplementaries:planter",
+    "supplementaries:item_shelf",
+    "suppsquared:item_shelf_spruce",
+    "suppsquared:item_shelf_birch",
+    "suppsquared:item_shelf_jungle",
+    "suppsquared:item_shelf_acacia",
+    "suppsquared:item_shelf_dark_oak",
+    "supplementaries:planter",
+    "supplementaries:way_sign_mangrove",
+    "supplementaries:way_sign_cherry",
+    "supplementaries:way_sign_bamboo",
+    "supplementaries:way_sign_crimson",
+    "supplementaries:way_sign_warped",
+    "suppsquared:item_shelf_cherry",
+    "suppsquared:item_shelf_mangrove",
+    "suppsquared:item_shelf_bamboo",
+    "suppsquared:item_shelf_crimson",
+    "suppsquared:item_shelf_warped"
+
+  ]
+}

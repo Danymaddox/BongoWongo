@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.snow",
+      "fallback": "Any Snow"
+    },
+    "item": "minecraft:snow"
+  },
+  "objectives": [
+
+    "minecraft:snow_block",
+    "minecraft:snow",
+    "minecraft:snowball"
+
+  ]
+}

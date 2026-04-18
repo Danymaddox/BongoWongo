@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.purpur",
+      "fallback": "Any Chorus Item or Purpur Block"
+    },
+    "item": "minecraft:chorus_flower"
+  },
+  "objectives": [
+
+    "minecraft:chorus_flower",
+    "minecraft:chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar",
+    "minecraft:purpur_slab",
+    "minecraft:purpur_stairs"
+
+  ]
+}

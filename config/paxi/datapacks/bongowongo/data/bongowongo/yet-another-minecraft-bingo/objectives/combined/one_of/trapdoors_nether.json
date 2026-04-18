@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.trapdoors_nether",
+      "fallback": "Any Nether Trapdoor"
+    },
+    "item": "minecraft:warped_trapdoor"
+  },
+  "objectives": [
+
+    "minecraft:crimson_trapdoor",
+    "minecraft:warped_trapdoor"
+
+  ]
+}

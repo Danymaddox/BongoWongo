@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.stairs_nether",
+      "fallback": "Any Nether Stairs"
+    },
+    "item": "minecraft:warped_stairs"
+  },
+  "objectives": [
+
+    "minecraft:crimson_stairs",
+    "minecraft:warped_stairs"
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.dirt",
+      "fallback": "Any Dirt"
+    },
+    "item": "minecraft:dirt"
+  },
+  "objectives": [
+    "minecraft:clay_ball",
+    "minecraft:clay",
+    "minecraft:coarse_dirt",
+    "minecraft:dirt",
+    "minecraft:flint",
+    "minecraft:gravel",
+    "minecraft:sand",
+    "supplementaries:flint_block",
+    "supplementaries:gravel_bricks",
+    "supplementaries:raked_gravel"
+  ]
+}

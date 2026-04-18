@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.music_disc",
+      "fallback": "Any Music Disc"
+    },
+    "item": "minecraft:music_disc_cat"
+  },
+  "objectives": [
+
+    "#minecraft:music_discs",
+    "#c:music_discs"
+    
+  ]
+}

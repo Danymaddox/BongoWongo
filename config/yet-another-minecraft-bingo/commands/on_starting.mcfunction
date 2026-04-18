@@ -1,0 +1,1 @@
+execute as @a if dimension bingo:lobby run effect give @s minecraft:saturation infinite 0 true

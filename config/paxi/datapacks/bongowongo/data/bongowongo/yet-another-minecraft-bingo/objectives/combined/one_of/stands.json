@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.stands",
+      "fallback": "Any Stand"
+    },
+    "item": "minecraft:armor_stand"
+  },
+  "objectives": [
+    
+    "minecraft:armor_stand",
+    "supplementaries:hat_stand",
+    "supplementaries:rope_arrow",
+    "supplementaries:rope",
+    "supplementaries:statue"
+
+  ]
+}

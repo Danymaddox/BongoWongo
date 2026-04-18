@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.processed_food",
+      "fallback": "Any Processed Food"
+    },
+    "item":     "minecraft:cake"
+  },
+  "objectives": [
+    "minecraft:beetroot_soup",
+    "minecraft:bread",
+    "minecraft:cake",
+    "minecraft:cookie",
+    "minecraft:mushroom_stew",
+    "minecraft:pumpkin_pie",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew",
+    "supplementaries:pancake"
+  ]
+}

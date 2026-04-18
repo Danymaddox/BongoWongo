@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.fence_gate_nether",
+      "fallback": "Any Nether Fence Gate"
+    },
+    "item": "minecraft:warped_fence_gate"
+  },
+  "objectives": [
+
+    "minecraft:crimson_fence_gate",
+    "minecraft:warped_fence_gate"
+
+  ]
+}

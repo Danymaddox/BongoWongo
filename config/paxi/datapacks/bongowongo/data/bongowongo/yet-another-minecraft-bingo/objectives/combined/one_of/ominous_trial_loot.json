@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.ominous_trial_loot",
+      "fallback": "Any Ominous Trial Loot"
+    },
+    "item": "minecraft:mace"
+  },
+  "objectives": [
+
+    "minecraft:flow_armor_trim_smithing_template",
+    "minecraft:flow_banner_pattern",
+    "minecraft:heavy_core",
+    "minecraft:trial_key",
+    "minecraft:ominous_trial_key",
+    "minecraft:mace"
+
+  ]
+}

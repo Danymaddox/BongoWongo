@@ -1,0 +1,28 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.iron_items",
+      "fallback": "Any Iron Item"
+    },
+    "item": "supplementaries:goblet"
+  },
+  "objectives": [
+
+    "crittersandcompanions:grappling_hook",
+    "minecraft:chain",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:iron_bars",
+    "minecraft:iron_block",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "supplementaries:faucet",
+    "supplementaries:goblet",
+    "supplementaries:iron_gate",
+    "suppsquared:iron_plaque",
+    "suppsquared:metal_brace",
+    "suppsquared:metal_cross_brace",
+    "suppsquared:metal_frame"
+    
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_blackstone",
+      "fallback": "Any Blackstone"
+    },
+    "item": "supplementaries:blackstone_tile"
+  },
+  "objectives": [
+
+    "supplementaries:blackstone_tile_wall",
+    "supplementaries:blackstone_tile_slab",
+    "supplementaries:blackstone_tile_stairs",
+    "supplementaries:blackstone_tile"
+
+  ]
+}

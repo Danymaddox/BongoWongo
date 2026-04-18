@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.ancient_city_smithing_templates",
+      "fallback": "Any Ancient City Smithing Template"
+    },
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  },
+  "objectives": [
+
+    "minecraft:silence_armor_trim_smithing_template",
+    "minecraft:ward_armor_trim_smithing_template"
+
+  ]
+}

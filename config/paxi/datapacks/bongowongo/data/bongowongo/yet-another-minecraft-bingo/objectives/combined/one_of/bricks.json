@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.bricks",
+      "fallback": "Any Brick"
+    },
+    "item": "minecraft:bricks"
+  },
+  "objectives": [
+
+    "minecraft:brick_slab",
+    "minecraft:brick_stairs",
+    "minecraft:brick_wall",
+    "minecraft:brick",
+    "minecraft:bricks",
+    "minecraft:decorated_pot",
+    "minecraft:flower_pot",
+    "supplementaries:planter"
+
+  ]
+}

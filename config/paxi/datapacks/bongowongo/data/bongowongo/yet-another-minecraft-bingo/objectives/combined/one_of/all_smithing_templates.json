@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_trim_templates",
+      "fallback": "Any Trim Template"
+    },
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "objectives": [
+
+    "#minecraft:trim_templates"
+
+  ]
+}

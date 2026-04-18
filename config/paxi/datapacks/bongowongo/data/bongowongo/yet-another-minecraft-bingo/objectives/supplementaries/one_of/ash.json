@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_ash",
+      "fallback": "Any Ash"
+    },
+    "item": "supplementaries:ash"
+  },
+  "objectives": [
+
+    "supplementaries:ash_bricks",
+    "supplementaries:ash_bricks_stairs",
+    "supplementaries:ash_bricks_slab",
+    "supplementaries:ash_bricks_wall",
+    "supplementaries:ash",
+    "supplementaries:ash_brick"
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.music_blocks",
+      "fallback": "Any Music Block"
+    },
+    "item": "minecraft:note_block"
+  },
+  "objectives": [
+
+    "minecraft:jukebox",
+    "minecraft:note_block",
+    "supplementaries:speaker_block"
+
+  ]
+}

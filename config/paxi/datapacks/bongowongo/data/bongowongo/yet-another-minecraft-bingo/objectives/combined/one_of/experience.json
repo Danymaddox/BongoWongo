@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.experience",
+      "fallback": "Experience Bottle or Enchanted Book"
+    },
+    "item": "minecraft:experience_bottle"
+  },
+  "objectives": [
+
+    "minecraft:enchanted_book",
+    "minecraft:experience_bottle"
+
+  ]
+}

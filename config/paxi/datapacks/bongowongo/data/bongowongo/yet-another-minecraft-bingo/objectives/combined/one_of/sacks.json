@@ -1,0 +1,31 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sacks",
+      "fallback": "Any Sack"
+    },
+    "item": "suppsquared:sack_cyan"
+  },
+  "objectives": [
+
+    "supplementaries:sack",
+    "suppsquared:sack_black",
+    "suppsquared:sack_blue",
+    "suppsquared:sack_brown",
+    "suppsquared:sack_cyan",
+    "suppsquared:sack_gray",
+    "suppsquared:sack_green",
+    "suppsquared:sack_light_blue",
+    "suppsquared:sack_light_gray",
+    "suppsquared:sack_lime",
+    "suppsquared:sack_magenta",
+    "suppsquared:sack_orange",
+    "suppsquared:sack_pink",
+    "suppsquared:sack_purple",
+    "suppsquared:sack_red",
+    "suppsquared:sack_white",
+    "suppsquared:sack_yellow"
+
+  ]
+}

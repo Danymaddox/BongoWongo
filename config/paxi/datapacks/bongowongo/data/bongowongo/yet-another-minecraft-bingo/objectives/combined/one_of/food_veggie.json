@@ -1,0 +1,33 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.food_veggie",
+      "fallback": "Any Veggies"
+    },
+    "item": "minecraft:carrot"
+  },
+  "objectives": [
+    "minecraft:apple",
+    "minecraft:baked_potato",
+    "minecraft:beetroot_seeds",
+    "minecraft:beetroot",
+    "minecraft:carrot",
+    "minecraft:cocoa_beans",
+    "minecraft:hay_block",
+    "minecraft:melon_seeds",
+    "minecraft:melon_slice",
+    "minecraft:paper",
+    "minecraft:poisonous_potato",
+    "minecraft:potato",
+    "minecraft:pumpkin_seeds",
+    "minecraft:sugar_cane",
+    "minecraft:sugar",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "supplementaries:flax_seeds",
+    "supplementaries:flax",
+    "supplementaries:fodder",
+    "supplementaries:sugar_cube"
+  ]
+}

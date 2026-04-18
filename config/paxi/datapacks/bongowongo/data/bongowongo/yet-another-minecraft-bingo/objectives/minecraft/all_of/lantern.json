@@ -1,0 +1,19 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_lantern",
+      "fallback": "All Lanterns"
+    },
+    "item": "minecraft:lantern"
+  },
+  "objectives": [
+
+    "minecraft:sea_lantern",
+    "minecraft:jack_o_lantern",
+    "minecraft:redstone_lamp",
+    "minecraft:soul_lantern",
+    "minecraft:lantern"
+
+  ]
+}

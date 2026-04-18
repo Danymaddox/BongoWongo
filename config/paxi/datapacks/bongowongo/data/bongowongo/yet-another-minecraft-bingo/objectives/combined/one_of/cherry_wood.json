@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.cherry_wood",
+      "fallback": "Any Cherry Wood"
+    },
+    "item": "minecraft:cherry_log"
+  },
+  "objectives": [
+
+    "minecraft:cherry_boat",
+    "minecraft:cherry_button",
+    "minecraft:cherry_chest_boat",
+    "minecraft:cherry_door",
+    "minecraft:cherry_fence_gate",
+    "minecraft:cherry_fence",
+    "minecraft:cherry_hanging_sign",
+    "minecraft:cherry_leaves",
+    "minecraft:cherry_log",
+    "minecraft:cherry_planks",
+    "minecraft:cherry_pressure_plate",
+    "minecraft:cherry_sapling",
+    "minecraft:cherry_sign",
+    "minecraft:cherry_slab",
+    "minecraft:cherry_stairs",
+    "minecraft:cherry_trapdoor",
+    "minecraft:cherry_wood",
+    "minecraft:stripped_cherry_log",
+    "minecraft:stripped_cherry_wood",
+    "supplementaries:item_shelf_cherry",
+    "supplementaries:way_sign_cherry"
+
+  ]
+}

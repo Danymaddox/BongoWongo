@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mud",
+      "fallback": "Any Mud"
+    },
+    "item": "minecraft:mud"
+  },
+  "objectives": [
+
+    "minecraft:mud_brick_slab",
+    "minecraft:mud_brick_stairs",
+    "minecraft:mud_brick_wall",
+    "minecraft:mud_bricks",
+    "minecraft:mud",
+    "minecraft:packed_mud"
+
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of_banner_pattern",
+      "fallback": "Any Candle Holder or Planter/Way Sign"
+    },
+    "item": "minecraft:dragon_banner_pattern"
+  },
+  "objectives": [
+        "bongowongo:supplementaries/one_of/one_of_candle_holder",
+        "bongowongo:supplementaries/one_of/one_of_planter_and_way_sign"
+  ]
+}

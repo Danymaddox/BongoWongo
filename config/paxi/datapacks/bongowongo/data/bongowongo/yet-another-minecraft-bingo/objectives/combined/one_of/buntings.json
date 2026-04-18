@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.bunting",
+      "fallback": "Any Bunting"
+    },
+    "item": "supplementaries:cyan_bunting"
+  },
+  "objectives": [
+    "#supplementaries:buntings"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_daub",
+      "fallback": "All Daub"
+    },
+    "item": "supplementaries:daub_frame"
+  },
+  "objectives": [
+
+    "supplementaries:daub",
+    "suppsquared:daub_stairs",
+    "suppsquared:daub_slab",
+    "supplementaries:daub_frame",
+    "supplementaries:daub_brace",
+    "supplementaries:daub_cross_brace",
+    "suppsquared:daub_frame_stairs",
+    "suppsquared:daub_frame_slab"
+
+  ]
+}

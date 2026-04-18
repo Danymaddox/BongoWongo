@@ -1,0 +1,46 @@
+{
+    "winCondition": {
+        "type": "cards",
+        "cards": 1
+    },
+    "cards": [
+        {
+            "goal": {
+                "type": "items",
+                "items": 10
+            },
+            "itemDistribution": [
+                5,
+                0,
+                3,
+                10,
+                7
+            ],
+            "itemFilter": "+from=randomium +in_overworld -tedious -uncategorized -unobtainable",
+            "isLockoutMode": false,
+            "isInventoryMode": false,
+            "isHiddenItemsMode": false,
+            "isConsumeItemsMode": false
+        }
+    ],
+    "stalemateBehavior": "END_GAME",
+    "endGameWhen": {
+        "type": "first_win"
+    },
+    "timeLimit": null,
+    "isElytra": false,
+    "isNightVision": true,
+    "isUnlockRecipes": true,
+    "isPvpEnabled": true,
+    "isKeepInventory": false,
+    "spawnDimension": "minecraft:overworld",
+    "spawnDistance": 25,
+    "showRemainingTime": true,
+    "showCompletedItems": true,
+    "showCompletedLines": false,
+    "showLeadingTeam": true,
+    "showPreviewCard": true,
+    "showHiddenTiers": false,
+    "isPlayerKit": false,
+    "isTeamKit": false
+}

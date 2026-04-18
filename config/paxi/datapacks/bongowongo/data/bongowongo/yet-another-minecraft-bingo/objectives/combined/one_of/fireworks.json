@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.fireworks",
+      "fallback": "Any Firework"
+    },
+    "item": "minecraft:firework_rocket"
+  },
+  "objectives": [
+
+    "minecraft:firework_rocket",
+    "minecraft:firework_star"
+
+  ]
+}

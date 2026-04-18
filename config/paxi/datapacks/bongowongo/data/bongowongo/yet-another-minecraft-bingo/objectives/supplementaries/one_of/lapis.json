@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_lapis",
+      "fallback": "Any Lapis"
+    },
+    "item": "supplementaries:lapis_bricks"
+  },
+  "objectives": [
+
+"supplementaries:lapis_bricks",
+"supplementaries:lapis_bricks_stairs",
+"supplementaries:lapis_bricks_slab",
+"supplementaries:lapis_bricks_wall"
+
+  ]
+}

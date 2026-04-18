@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.silktouchable",
+      "fallback": "Any Silktouchable"
+    },
+    "item": "minecraft:blue_ice"
+  },
+  "objectives": [
+
+    "minecraft:blue_ice",
+    "minecraft:brown_mushroom_block",
+    "minecraft:grass_block",
+    "minecraft:ice",
+    "minecraft:mushroom_stem",
+    "minecraft:packed_ice",
+    "minecraft:podzol",
+    "minecraft:red_mushroom_block",
+    "minecraft:podzol",
+    "minecraft:mycelium",
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium"
+
+  ]
+}

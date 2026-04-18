@@ -1,0 +1,42 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pale_oak_wood",
+      "fallback": "Any Pale Oak Wood"
+    },
+    "item": "minecraft:acacia_log"
+  },
+  "objectives": [
+
+    "minecraft:chiseled_resin_bricks",
+    "minecraft:closed_eyeblossom",
+    "minecraft:creaking_heart",
+    "minecraft:open_eyeblossom",
+    "minecraft:pale_oak_boat",
+    "minecraft:pale_oak_button",
+    "minecraft:pale_oak_chest_boat",
+    "minecraft:pale_oak_door",
+    "minecraft:pale_oak_fence_gate",
+    "minecraft:pale_oak_fence",
+    "minecraft:pale_oak_hanging_sign",
+    "minecraft:pale_oak_log",
+    "minecraft:pale_oak_planks",
+    "minecraft:pale_oak_pressure_plate",
+    "minecraft:pale_oak_sign",
+    "minecraft:pale_oak_slab",
+    "minecraft:pale_oak_stairs",
+    "minecraft:pale_oak_trapdoor",
+    "minecraft:pale_oak_wood",
+    "minecraft:resin_block",
+    "minecraft:resin_brick_slab",
+    "minecraft:resin_brick_stairs",
+    "minecraft:resin_brick_wall",
+    "minecraft:resin_brick",
+    "minecraft:resin_bricks",
+    "minecraft:resin_clump",
+    "minecraft:stripped_pale_oak_log",
+    "minecraft:stripped_pale_oak_wood"
+
+  ]
+}

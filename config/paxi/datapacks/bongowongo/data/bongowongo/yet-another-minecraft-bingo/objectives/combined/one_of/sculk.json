@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sculk",
+      "fallback": "Any Sculk"
+    },
+    "item": "minecraft:sculk"
+  },
+  "objectives": [
+
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:sculk_catalyst",
+    "minecraft:sculk_sensor",
+    "minecraft:sculk_shrieker",
+    "minecraft:sculk_vein",
+    "minecraft:sculk"
+
+  ]
+}

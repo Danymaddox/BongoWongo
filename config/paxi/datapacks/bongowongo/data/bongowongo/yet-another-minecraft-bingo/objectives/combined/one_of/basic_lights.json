@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.basic_lights",
+      "fallback": "Any Basic Light"
+    },
+    "item": "minecraft:torch"
+  },
+  "objectives": [
+
+    "minecraft:campfire",
+    "minecraft:jack_o_lantern",
+    "minecraft:lantern",
+    "minecraft:torch",
+    "supplementaries:sconce_lever",
+    "supplementaries:sconce",
+    "supplementaries:stone_lamp"
+
+  ]
+}

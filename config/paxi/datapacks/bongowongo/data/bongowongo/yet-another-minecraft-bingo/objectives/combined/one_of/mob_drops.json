@@ -1,0 +1,28 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mob_drops",
+      "fallback": "Any Mob Drop"
+    },
+    "item": "minecraft:rotten_flesh"
+  },
+  "objectives": [
+
+    "minecraft:arrow",
+    "minecraft:bone_block",
+    "minecraft:bone_meal",
+    "minecraft:bone",
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:ender_pearl",
+    "minecraft:gunpowder",
+    "minecraft:magma_cream",
+    "minecraft:rotten_flesh",
+    "minecraft:slime_ball",
+    "minecraft:slime_block",
+    "minecraft:spider_eye",
+    "minecraft:string"
+
+  ]
+}

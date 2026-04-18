@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pressure_plates_nether",
+      "fallback": "Any Nether Pressure Plate"
+    },
+    "item": "minecraft:warped_pressure_plate"
+  },
+  "objectives": [
+
+    "minecraft:crimson_pressure_plate",
+    "minecraft:warped_pressure_plate"
+
+  ]
+}

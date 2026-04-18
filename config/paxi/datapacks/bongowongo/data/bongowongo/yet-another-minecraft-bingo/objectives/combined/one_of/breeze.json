@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.breeze",
+      "fallback": "Any Breeze Item"
+    },
+    "item": "minecraft:wind_charge"
+  },
+  "objectives": [
+
+    "minecraft:breeze_rod",
+    "minecraft:wind_charge"
+
+  ]
+}

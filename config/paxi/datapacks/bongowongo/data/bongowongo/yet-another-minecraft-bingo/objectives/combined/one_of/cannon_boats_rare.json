@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.cannon_boats_rare",
+      "fallback": "Any Rare Cannon Boat"
+    },
+    "item": "minecraft:cannon_boat_oak"
+  },
+  "objectives": [
+
+    "supplementaries:cannon_boat_bamboo",
+    "supplementaries:cannon_boat_cherry",
+    "supplementaries:cannon_boat_mangrove",
+    "supplementaries:cannon_boat_pale_oak"
+
+  ]
+}

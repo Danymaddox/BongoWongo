@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.banners_flags_buntings",
+      "fallback": "Any Banner, Flag, or Bunting"
+    },
+    "item": "supplementaries:lime_bunting"
+  },
+  "objectives": [
+    "#minecraft:banners",
+    "#supplementaries:buntings",
+    "#supplementaries:flags"
+  ]
+}

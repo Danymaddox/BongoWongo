@@ -1,0 +1,31 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_awning",
+      "fallback": "All Awning"
+    },
+    "item": "supplementaries:awning_red"
+  },
+  "objectives": [
+
+    "supplementaries:awning_pink",
+    "supplementaries:awning_magenta",
+    "supplementaries:awning_purple",
+    "supplementaries:awning_blue",
+    "supplementaries:awning_light_blue",
+    "supplementaries:awning_cyan",
+    "supplementaries:awning_green",
+    "supplementaries:awning_lime",
+    "supplementaries:awning_yellow",
+    "supplementaries:awning_orange",
+    "supplementaries:awning_red",
+    "supplementaries:awning_brown",
+    "supplementaries:awning_black",
+    "supplementaries:awning_gray",
+    "supplementaries:awning_light_gray",
+    "supplementaries:awning_white",
+    "supplementaries:awning"
+
+  ]
+}

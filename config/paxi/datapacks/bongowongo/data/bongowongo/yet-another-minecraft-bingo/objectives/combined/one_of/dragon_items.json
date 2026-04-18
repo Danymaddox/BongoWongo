@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.dragon_items",
+      "fallback": "Any Dragon Item"
+    },
+    "item": "minecraft:dragon_egg"
+  },
+  "objectives": [
+
+    "minecraft:dragon_breath",
+    "minecraft:dragon_egg",
+    "minecraft:dragon_head",
+    "minecraft:elytra",
+    "supplementaries:dragon_banner_pattern"
+
+  ]
+}

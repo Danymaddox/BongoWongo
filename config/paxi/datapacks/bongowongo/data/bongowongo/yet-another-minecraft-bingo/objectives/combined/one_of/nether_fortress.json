@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.nether_fortress",
+      "fallback": "Any Nether Fortress Item"
+    },
+    "item": "minecraft:nether_wart"
+  },
+  "objectives": [
+
+    "friendsandfoes:wildfire_crown_fragment",
+    "friendsandfoes:wildfire_crown",
+    "minecraft:blaze_powder",
+    "minecraft:blaze_rod",
+    "minecraft:nether_wart",
+    "minecraft:red_nether_brick_slab",
+    "minecraft:red_nether_brick_stairs",
+    "minecraft:red_nether_brick_wall",
+    "minecraft:red_nether_bricks",
+    "minecraft:rib_armor_trim_smithing_template",
+    "minecraft:skull_banner_pattern",
+    "minecraft:wither_skeleton_skull"
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.tuff",
+      "fallback": "Any Tuff"
+    },
+    "item": "minecraft:tuff"
+  },
+  "objectives": [
+
+    "minecraft:chiseled_tuff_bricks",
+    "minecraft:chiseled_tuff",
+    "minecraft:polished_tuff_slab",
+    "minecraft:polished_tuff_stairs",
+    "minecraft:polished_tuff_wall",
+    "minecraft:polished_tuff",
+    "minecraft:tuff_brick_slab",
+    "minecraft:tuff_brick_stairs",
+    "minecraft:tuff_brick_wall",
+    "minecraft:tuff_bricks",
+    "minecraft:tuff_slab",
+    "minecraft:tuff_stairs",
+    "minecraft:tuff_wall",
+    "minecraft:tuff",
+    "supplementaries:slidy_block"
+
+  ]
+}

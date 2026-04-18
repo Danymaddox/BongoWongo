@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mangrove_wood",
+      "fallback": "Any Mangrove Wood"
+    },
+    "item": "minecraft:mangrove_log"
+  },
+  "objectives": [
+
+    "minecraft:mangrove_boat",
+    "minecraft:mangrove_button",
+    "minecraft:mangrove_chest_boat",
+    "minecraft:mangrove_door",
+    "minecraft:mangrove_fence_gate",
+    "minecraft:mangrove_fence",
+    "minecraft:mangrove_hanging_sign",
+    "minecraft:mangrove_leaves",
+    "minecraft:mangrove_log",
+    "minecraft:mangrove_planks",
+    "minecraft:mangrove_pressure_plate",
+    "minecraft:mangrove_sapling",
+    "minecraft:mangrove_sign",
+    "minecraft:mangrove_slab",
+    "minecraft:mangrove_stairs",
+    "minecraft:mangrove_trapdoor",
+    "minecraft:mangrove_wood",
+    "minecraft:stripped_mangrove_log",
+    "minecraft:stripped_mangrove_wood",
+    "supplementaries:item_shelf_mangrove",
+    "supplementaries:way_sign_mangrove"
+
+  ]
+}

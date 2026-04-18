@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.spruce_wood",
+      "fallback": "Any Spruce Wood"
+    },
+    "item": "minecraft:spruce_log"
+  },
+  "objectives": [
+
+    "minecraft:spruce_boat",
+    "minecraft:spruce_button",
+    "minecraft:spruce_chest_boat",
+    "minecraft:spruce_door",
+    "minecraft:spruce_fence_gate",
+    "minecraft:spruce_fence",
+    "minecraft:spruce_hanging_sign",
+    "minecraft:spruce_leaves",
+    "minecraft:spruce_log",
+    "minecraft:spruce_planks",
+    "minecraft:spruce_pressure_plate",
+    "minecraft:spruce_sapling",
+    "minecraft:spruce_sign",
+    "minecraft:spruce_slab",
+    "minecraft:spruce_stairs",
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_wood",
+    "minecraft:stripped_spruce_log",
+    "minecraft:stripped_spruce_wood",
+    "supplementaries:item_shelf_spruce",
+    "supplementaries:way_sign_spruce"
+
+  ]
+}

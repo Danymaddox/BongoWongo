@@ -1,0 +1,9 @@
+bossbar remove yet-another-minecraft-bingo:bingo_blue
+bossbar remove yet-another-minecraft-bingo:bingo_yellow
+bossbar remove yet-another-minecraft-bingo:bingo_pink
+bossbar remove yet-another-minecraft-bingo:bingo_red
+bossbar remove yet-another-minecraft-bingo:bingo_green
+bossbar remove yet-another-minecraft-bingo:bingo_aqua
+bossbar remove yet-another-minecraft-bingo:bingo_gray
+bossbar remove yet-another-minecraft-bingo:bingo_orange
+bossbar remove yet-another-minecraft-bingo:preview

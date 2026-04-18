@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mossy_stone",
+      "fallback": "Any Mossy Stone"
+    },
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "objectives": [
+
+    "minecraft:mossy_cobblestone_slab",
+    "minecraft:mossy_cobblestone_stairs",
+    "minecraft:mossy_cobblestone_wall",
+    "minecraft:mossy_cobblestone",
+    "minecraft:mossy_stone_brick_slab",
+    "minecraft:mossy_stone_brick_stairs",
+    "minecraft:mossy_stone_brick_wall",
+    "minecraft:mossy_stone_bricks"
+
+  ]
+}

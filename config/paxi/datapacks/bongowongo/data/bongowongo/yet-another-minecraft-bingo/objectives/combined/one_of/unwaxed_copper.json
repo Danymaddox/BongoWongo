@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.unwaxed_copper",
+      "fallback": "Any Unwaxed Copper"
+    },
+    "item": "minecraft:copper_block"
+  },
+  "objectives": [
+
+    "friendsandfoes:copper_button",
+    "minecraft:chiseled_copper",
+    "minecraft:copper_block",
+    "minecraft:copper_bulb",
+    "minecraft:copper_door",
+    "minecraft:copper_grate",
+    "minecraft:copper_trapdoor",
+    "minecraft:cut_copper_slab",
+    "minecraft:cut_copper_stairs",
+    "minecraft:cut_copper",
+    "minecraft:lightning_rod",
+    "suppsquared:copper_plaque"
+
+  ]
+}

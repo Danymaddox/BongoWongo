@@ -1,0 +1,43 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.iron_armor",
+      "fallback": "Any Iron"
+    },
+    "item": "minecraft:iron_trapdoor"
+  },
+  "objectives": [
+    "crittersandcompanions:iron_dragonfly_armor",
+    "minecraft:anvil",
+    "minecraft:bucket",
+    "minecraft:cauldron",
+    "minecraft:chain",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:iron_axe",
+    "minecraft:iron_bars",
+    "minecraft:iron_block",
+    "minecraft:iron_boots",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_door",
+    "minecraft:iron_helmet",
+    "minecraft:iron_hoe",
+    "minecraft:iron_ingot",
+    "minecraft:iron_leggings",
+    "minecraft:iron_nugget",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_spear",
+    "minecraft:iron_sword",
+    "minecraft:iron_trapdoor",
+    "minecraft:minecart",
+    "minecraft:raw_iron_block",
+    "minecraft:raw_iron",
+    "supplementaries:goblet",
+    "supplementaries:iron_gate",
+    "suppsquared:iron_plaque",
+    "suppsquared:metal_brace",
+    "suppsquared:metal_cross_brace",
+    "suppsquared:metal_frame"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.biome_specific_plants",
+      "fallback": "Any Biome-Specific Plants"
+    },
+    "item": "minecraft:melon"
+  },
+  "objectives": [
+
+    "minecraft:cactus",
+    "minecraft:carved_pumpkin",
+    "minecraft:lily_pad",
+    "minecraft:melon",
+    "minecraft:pumpkin"
+
+  ]
+}

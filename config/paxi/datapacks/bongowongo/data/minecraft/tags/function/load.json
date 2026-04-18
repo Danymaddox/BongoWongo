@@ -1,0 +1,12 @@
+{
+
+    "values": [
+
+        "bongowongo:health_scoreboard",
+        "bongowongo:health_scoreboard_display",
+        "bongowongo:remove_advancement_display",
+        "bongowongo:remove_death_display",
+        "bongowongo:boss_bar_fix"
+
+    ]
+}

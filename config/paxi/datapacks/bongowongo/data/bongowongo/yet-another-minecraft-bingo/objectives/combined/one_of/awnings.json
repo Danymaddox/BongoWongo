@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.awnings",
+      "fallback": "Any Awning"
+    },
+    "item": "supplementaries:cyan_awning"
+  },
+  "objectives": [
+    "#supplementaries:awnings"
+  ]
+}

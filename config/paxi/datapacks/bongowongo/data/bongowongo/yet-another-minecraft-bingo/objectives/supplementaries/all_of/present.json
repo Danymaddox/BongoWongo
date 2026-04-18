@@ -1,0 +1,31 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_present",
+      "fallback": "All Presents"
+    },
+    "item": "supplementaries:present_red"
+  },
+  "objectives": [
+
+    "supplementaries:present_pink",
+    "supplementaries:present_magenta",
+    "supplementaries:present_purple",
+    "supplementaries:present_blue",
+    "supplementaries:present_light_blue",
+    "supplementaries:present_cyan",
+    "supplementaries:present_green",
+    "supplementaries:present_lime",
+    "supplementaries:present_yellow",
+    "supplementaries:present_orange",
+    "supplementaries:present_red",
+    "supplementaries:present_brown",
+    "supplementaries:present_black",
+    "supplementaries:present_gray",
+    "supplementaries:present_light_gray",
+    "supplementaries:present_white",
+    "supplementaries:present"
+
+  ]
+}

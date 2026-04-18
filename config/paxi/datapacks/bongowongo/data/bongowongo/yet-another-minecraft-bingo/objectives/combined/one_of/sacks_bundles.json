@@ -1,0 +1,48 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sacks_bundles",
+      "fallback": "Any Sack or Bundle"
+    },
+    "item": "suppsquared:sack_lime"
+  },
+  "objectives": [
+
+    "minecraft:black_bundle",
+    "minecraft:blue_bundle",
+    "minecraft:brown_bundle",
+    "minecraft:bundle",
+    "minecraft:cyan_bundle",
+    "minecraft:gray_bundle",
+    "minecraft:green_bundle",
+    "minecraft:light_blue_bundle",
+    "minecraft:light_gray_bundle",
+    "minecraft:lime_bundle",
+    "minecraft:magenta_bundle",
+    "minecraft:orange_bundle",
+    "minecraft:pink_bundle",
+    "minecraft:purple_bundle",
+    "minecraft:red_bundle",
+    "minecraft:white_bundle",
+    "minecraft:yellow_bundle",
+    "supplementaries:sack",
+    "suppsquared:sack_black",
+    "suppsquared:sack_blue",
+    "suppsquared:sack_brown",
+    "suppsquared:sack_cyan",
+    "suppsquared:sack_gray",
+    "suppsquared:sack_green",
+    "suppsquared:sack_light_blue",
+    "suppsquared:sack_light_gray",
+    "suppsquared:sack_lime",
+    "suppsquared:sack_magenta",
+    "suppsquared:sack_orange",
+    "suppsquared:sack_pink",
+    "suppsquared:sack_purple",
+    "suppsquared:sack_red",
+    "suppsquared:sack_white",
+    "suppsquared:sack_yellow"
+
+  ]
+}

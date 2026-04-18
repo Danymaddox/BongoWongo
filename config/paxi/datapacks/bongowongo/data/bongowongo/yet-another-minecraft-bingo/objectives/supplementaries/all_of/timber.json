@@ -1,0 +1,20 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_timber_frames",
+      "fallback": "All Timber Frames"
+    },
+    "item": "supplementaries:timber_frame"
+  },
+  "objectives": [
+
+    "supplementaries:timber_frame",
+    "supplementaries:timber_brace",
+    "supplementaries:timber_cross_brace",
+    "suppsquared:metal_frame",
+    "suppsquared:metal_brace",
+    "suppsquared:metal_cross_brace"
+
+  ]
+}

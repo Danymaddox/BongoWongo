@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.basic_wool",
+      "fallback": "Any Wool, Carpet, Bed, or Sleeping Bag"
+    },
+    "item": "minecraft:black_wool"
+  },
+  "objectives": [
+    "#comforts:sleeping_bags",
+    "#minecraft:beds",
+    "#minecraft:wool_carpets",
+    "#minecraft:wool"
+  ]
+}

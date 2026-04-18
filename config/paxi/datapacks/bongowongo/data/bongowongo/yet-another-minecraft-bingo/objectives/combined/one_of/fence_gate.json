@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.fence_gate",
+      "fallback": "Any Basic Fence Gate"
+    },
+    "item": "minecraft:oak_fence_gate"
+  },
+  "objectives": [
+
+    "minecraft:acacia_fence_gate",
+    "minecraft:birch_fence_gate",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:jungle_fence_gate",
+    "minecraft:oak_fence_gate",
+    "minecraft:spruce_fence_gate"
+
+  ]
+}

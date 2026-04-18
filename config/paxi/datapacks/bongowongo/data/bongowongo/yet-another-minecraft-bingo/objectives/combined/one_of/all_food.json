@@ -1,0 +1,46 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_cooked",
+      "fallback": "Any Food"
+    },
+    "item": "minecraft:glistering_melon_slice"
+  },
+  "objectives": [
+    
+    "minecraft:beef",
+    "minecraft:beetroot_soup",
+    "minecraft:bread",
+    "minecraft:brown_mushroom",
+    "minecraft:cake",
+    "minecraft:chicken",
+    "minecraft:chorus_fruit",
+    "minecraft:cod",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:cookie",
+    "minecraft:fermented_spider_eye",
+    "minecraft:glistering_melon_slice",
+    "minecraft:golden_apple",
+    "minecraft:golden_carrot",
+    "minecraft:mushroom_stew",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:pufferfish",
+    "minecraft:pumpkin_pie",
+    "minecraft:rabbit_stew",
+    "minecraft:rabbit",
+    "minecraft:red_mushroom",
+    "minecraft:salmon",
+    "minecraft:suspicious_stew",
+    "minecraft:tropical_fish",
+    "supplementaries:pancake"
+
+  ]
+}

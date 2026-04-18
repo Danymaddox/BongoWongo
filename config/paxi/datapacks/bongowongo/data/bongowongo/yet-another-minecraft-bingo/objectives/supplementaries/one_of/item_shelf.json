@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_item_shelf",
+      "fallback": "Any Item Shelf"
+    },
+    "item": "suppsquared:item_shelf_warped"
+  },
+  "objectives": [
+
+    "supplementaries:item_shelf",
+    "suppsquared:item_shelf_spruce",
+    "suppsquared:item_shelf_birch",
+    "suppsquared:item_shelf_jungle",
+    "suppsquared:item_shelf_acacia",
+    "suppsquared:item_shelf_dark_oak",
+    "suppsquared:item_shelf_cherry",
+    "suppsquared:item_shelf_mangrove",
+    "suppsquared:item_shelf_bamboo",
+    "suppsquared:item_shelf_crimson",
+    "suppsquared:item_shelf_warped"
+
+  ]
+}

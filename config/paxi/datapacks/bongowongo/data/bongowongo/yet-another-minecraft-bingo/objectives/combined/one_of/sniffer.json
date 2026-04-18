@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sniffer",
+      "fallback": "Any Sniffer Item"
+    },
+    "item": "minecraft:sniffer_egg"
+  },
+  "objectives": [
+
+    "minecraft:pitcher_plant",
+    "minecraft:pitcher_pod",
+    "minecraft:sniffer_egg",
+    "minecraft:torchflower_seeds",
+    "minecraft:torchflower"
+    
+  ]
+}

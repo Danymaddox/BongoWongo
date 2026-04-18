@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.dripstone",
+      "fallback": "Any Dripstone"
+    },
+    "item": "minecraft:dripstone_block"
+  },
+  "objectives": [
+
+    "minecraft:dripstone_block",
+    "minecraft:pointed_dripstone"
+
+  ]
+}

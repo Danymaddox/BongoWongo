@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.chest_boats",
+      "fallback": "Any Basic Chest Boat"
+    },
+    "item": "minecraft:oak_chest_boat"
+  },
+  "objectives": [
+
+    "minecraft:acacia_chest_boat",
+    "minecraft:birch_chest_boat",
+    "minecraft:dark_oak_chest_boat",
+    "minecraft:jungle_chest_boat",
+    "minecraft:oak_chest_boat",
+    "minecraft:spruce_chest_boat"
+
+  ]
+}

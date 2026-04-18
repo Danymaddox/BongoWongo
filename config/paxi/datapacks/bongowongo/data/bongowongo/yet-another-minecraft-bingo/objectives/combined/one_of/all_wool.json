@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_wool",
+      "fallback": "Any Wool related item"
+    },
+    "item": "minecraft:lime_wool"
+  },
+  "objectives": [
+    "#comforts:hammocks",
+    "#comforts:sleeping_bags",
+    "#minecraft:banners",
+    "#minecraft:beds",
+    "#minecraft:wool_carpets",
+    "#minecraft:wool",
+    "#supplementaries:awnings",
+    "#supplementaries:buntings"
+  ]
+}

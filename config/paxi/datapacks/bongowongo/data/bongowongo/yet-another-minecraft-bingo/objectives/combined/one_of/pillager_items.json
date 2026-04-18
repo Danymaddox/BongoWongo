@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pillager_items",
+      "fallback": "Any Pillager Item"
+    },
+    "item": "minecraft:ominous_bottle"
+  },
+  "objectives": [
+
+    "minecraft:ominous_bottle"
+
+  ]
+}

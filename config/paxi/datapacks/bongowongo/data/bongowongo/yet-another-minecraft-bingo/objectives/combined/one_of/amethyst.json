@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.amethyst",
+      "fallback": "Any Amethyst"
+    },
+    "item": "minecraft:amethyst_shard"
+  },
+  "objectives": [
+
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "minecraft:amethyst_shard",
+    "minecraft:large_amethyst_bud",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:small_amethyst_bud",
+    "supplementaries:crystal_display"
+
+  ]
+}

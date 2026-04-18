@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.golden_food",
+      "fallback": "Any Golden Food"
+    },
+    "item": "minecraft:golden_apple"
+  },
+  "objectives": [
+
+    "minecraft:glistering_melon_slice",
+    "minecraft:golden_apple",
+    "minecraft:golden_carrot"
+
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "item",
+  "item": "minecraft:baked_potato",
+  "count": {
+    "type": "random",
+    "min": 1,
+    "max": 32
+  }
+}

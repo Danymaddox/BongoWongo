@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.honey",
+      "fallback": "Any Honey Related Item"
+    },
+    "item": "minecraft:honeycomb"
+  },
+  "objectives": [
+
+    "minecraft:honey_block",
+    "minecraft:honey_bottle",
+    "minecraft:honeycomb_block",
+    "minecraft:honeycomb",
+    "supplementaries:fine_wood_slab",
+    "supplementaries:fine_wood_stairs",
+    "supplementaries:fine_wood"
+
+  ]
+}

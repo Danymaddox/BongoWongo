@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.planks_rare",
+      "fallback": "Any Rare Planks"
+    },
+    "item": "minecraft:cherry_planks"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_planks",
+    "minecraft:cherry_planks",
+    "minecraft:mangrove_planks",
+    "minecraft:pale_oak_planks"
+
+  ]
+}

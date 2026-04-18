@@ -1,0 +1,22 @@
+{
+    "type": "one_of",
+    "display": {
+        "name": {
+            "translate": "bingo.objective.combined.one_of.horse_armor",
+            "fallback": "Any Horse Armor"
+        },
+        "item": "minecraft:netherite_horse_armor"
+    },
+    "objectives": [
+
+        "crittersandcompanions:diamond_dragonfly_armor",
+        "minecraft:copper_horse_armor",
+        "minecraft:diamond_horse_armor",
+        "minecraft:golden_horse_armor",
+        "minecraft:iron_horse_armor",
+        "minecraft:netherite_horse_armor",
+        "crittersandcompanions:gold_dragonfly_armor",
+        "crittersandcompanions:iron_dragonfly_armor"
+        
+    ]
+}

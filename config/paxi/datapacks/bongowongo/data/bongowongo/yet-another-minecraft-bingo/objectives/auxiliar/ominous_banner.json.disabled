@@ -1,0 +1,15 @@
+{
+  "type": "item",
+  "display": {
+    "name": "Ominous Banner"
+  },
+  "item": "minecraft:white_banner",
+  "components": {
+    "minecraft:banner_patterns": {
+        ["pattern":"triangle_top",
+        "color":"red"],
+        ["pattern":"cross",
+        "color":"white"]
+    }
+  }
+}

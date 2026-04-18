@@ -1,0 +1,39 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.bamboo_wood",
+      "fallback": "Any Bamboo"
+    },
+    "item": "minecraft:bamboo"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_block",
+    "minecraft:bamboo_button",
+    "minecraft:bamboo_chest_raft",
+    "minecraft:bamboo_chest_raft",
+    "minecraft:bamboo_door",
+    "minecraft:bamboo_fence_gate",
+    "minecraft:bamboo_fence",
+    "minecraft:bamboo_hanging_sign",
+    "minecraft:bamboo_mosaic_slab",
+    "minecraft:bamboo_mosaic_stairs",
+    "minecraft:bamboo_mosaic",
+    "minecraft:bamboo_planks",
+    "minecraft:bamboo_pressure_plate",
+    "minecraft:bamboo_raft",
+    "minecraft:bamboo_sign",
+    "minecraft:bamboo_slab",
+    "minecraft:bamboo_stairs",
+    "minecraft:bamboo_trapdoor",
+    "minecraft:bamboo",
+    "minecraft:scaffolding",
+    "minecraft:stripped_bamboo_block",
+    "supplementaries:cannon_boat_bamboo",
+    "supplementaries:flute",
+    "supplementaries:way_sign_bamboo",
+    "suppsquared:item_shelf_bamboo"
+
+  ]
+}

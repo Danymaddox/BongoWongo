@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.ominous_trial_loot",
+      "fallback": "Any Ominous Trial Loot"
+    },
+    "item": "minecraft:ominous_trial_key"
+  },
+  "objectives": [
+
+    "minecraft:bolt_armor_trim_smithing_template",
+    "minecraft:breeze_rod",
+    "minecraft:flow_armor_trim_smithing_template",
+    "minecraft:flow_banner_pattern",
+    "minecraft:guster_banner_pattern",
+    "minecraft:heavy_core",
+    "minecraft:mace",
+    "minecraft:ominous_trial_key",
+    "minecraft:trial_key",
+    "minecraft:trial_key",
+    "minecraft:wind_charge"
+
+  ]
+}

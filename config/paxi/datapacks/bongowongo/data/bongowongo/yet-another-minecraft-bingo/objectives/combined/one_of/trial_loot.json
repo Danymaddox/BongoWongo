@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.trial_loot",
+      "fallback": "Any Trial Smithing Template or Guster Banner Pattern"
+    },
+    "item": "minecraft:trial_key"
+  },
+  "objectives": [
+
+    "minecraft:bolt_armor_trim_smithing_template",
+    "minecraft:guster_banner_pattern",
+    "minecraft:trial_key"
+
+  ]
+}

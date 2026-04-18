@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.hanging_signs",
+      "fallback": "Any Basic Hanging Sign"
+    },
+    "item": "minecraft:oak_hanging_sign"
+  },
+  "objectives": [
+
+    "minecraft:acacia_hanging_sign",
+    "minecraft:birch_hanging_sign",
+    "minecraft:dark_oak_hanging_sign",
+    "minecraft:jungle_hanging_sign",
+    "minecraft:oak_hanging_sign",
+    "minecraft:spruce_hanging_sign"
+
+  ]
+}

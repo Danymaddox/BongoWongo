@@ -1,0 +1,32 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.neutral_drops",
+      "fallback": "Any Neutral Drop"
+    },
+    "item":     "minecraft:egg"
+  },
+  "objectives": [
+
+    "crittersandcompanions:clam",
+    "crittersandcompanions:dragonfly_wing",
+    "crittersandcompanions:koi_fish",
+    "crittersandcompanions:sea_bunny_slime_block",
+    "friendsandfoes:crab_claw",
+    "friendsandfoes:crab_egg",
+    "minecraft:armadillo_scute",
+    "minecraft:blue_egg",
+    "minecraft:brown_egg",
+    "minecraft:egg",
+    "minecraft:feather",
+    "minecraft:glow_ink_sac",
+    "minecraft:ink_sac",
+    "minecraft:leather",
+    "minecraft:rabbit_foot",
+    "minecraft:rabbit_hide",
+    "minecraft:turtle_scute",
+    "supplementaries:feather_block"
+
+  ]
+}

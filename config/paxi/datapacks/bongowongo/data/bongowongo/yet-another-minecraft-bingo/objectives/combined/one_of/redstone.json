@@ -1,0 +1,39 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.redstone",
+      "fallback": "Any Redstone or Rredstone related item"
+    },
+    "item": "minecraft:redstone"
+  },
+  "objectives": [
+
+    "minecraft:comparator",
+    "minecraft:compass",
+    "minecraft:crafter",
+    "minecraft:daylight_detector",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:observer",
+    "minecraft:piston",
+    "minecraft:redstone_block",
+    "minecraft:redstone_lamp",
+    "minecraft:redstone_torch",
+    "minecraft:redstone",
+    "minecraft:repeater",
+    "minecraft:sticky_piston",
+    "minecraft:target",
+    "minecraft:tnt",
+    "minecraft:tripwire_hook",
+    "supplementaries:cannon",
+    "supplementaries:cog_block",
+    "supplementaries:crank",
+    "supplementaries:lock_block",
+    "supplementaries:redstone_illuminator",
+    "supplementaries:relayer",
+    "supplementaries:spring_launcher",
+    "supplementaries:turn_table"
+
+  ]
+}

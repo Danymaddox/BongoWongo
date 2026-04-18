@@ -1,0 +1,31 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_gold_candle_holder",
+      "fallback": "All Gold Candle Holders"
+    },
+    "item": "supplementaries:gold_candle_holder_red"
+  },
+  "objectives": [
+
+    "supplementaries:gold_candle_holder_pink",
+    "supplementaries:gold_candle_holder_magenta",
+    "supplementaries:gold_candle_holder_purple",
+    "supplementaries:gold_candle_holder_blue",
+    "supplementaries:gold_candle_holder_light_blue",
+    "supplementaries:gold_candle_holder_cyan",
+    "supplementaries:gold_candle_holder_green",
+    "supplementaries:gold_candle_holder_lime",
+    "supplementaries:gold_candle_holder_yellow",
+    "supplementaries:gold_candle_holder_orange",
+    "supplementaries:gold_candle_holder_red",
+    "supplementaries:gold_candle_holder_brown",
+    "supplementaries:gold_candle_holder_black",
+    "supplementaries:gold_candle_holder_gray",
+    "supplementaries:gold_candle_holder_light_gray",
+    "supplementaries:gold_candle_holder_white",
+    "supplementaries:gold_candle_holder"
+
+  ]
+}

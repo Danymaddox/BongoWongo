@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.anvil_cauldron_hopper",
+      "fallback": "Any Anvil, Cauldron or Hopper"
+    },
+    "item": "minecraft:anvil"
+  },
+  "objectives": [
+
+    "minecraft:anvil",
+    "minecraft:chipped_anvil",
+    "minecraft:damaged_anvil",
+    "minecraft:cauldron",
+    "minecraft:hopper"
+
+  ]
+}

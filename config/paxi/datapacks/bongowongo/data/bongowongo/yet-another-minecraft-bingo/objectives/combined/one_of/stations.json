@@ -1,0 +1,31 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.stations",
+      "fallback": "Any Station"
+    },
+    "item": "minecraft:chest"
+  },
+  "objectives": [
+
+  "minecraft:barrel",
+  "minecraft:bell",
+  "minecraft:blast_furnace",
+  "minecraft:brewing_stand",
+  "minecraft:cartography_table",
+  "minecraft:chest",
+  "minecraft:composter",
+  "minecraft:fletching_table",
+  "minecraft:grindstone",
+  "minecraft:loom",
+  "minecraft:smithing_table",
+  "minecraft:smoker",
+  "minecraft:stonecutter",
+  "minecraft:trapped_chest",
+  "supplementaries:timber_brace",
+  "supplementaries:timber_cross_brace",
+  "supplementaries:timber_frame"
+
+  ]
+}

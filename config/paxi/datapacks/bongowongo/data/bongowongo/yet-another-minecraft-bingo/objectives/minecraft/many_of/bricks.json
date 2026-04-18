@@ -1,0 +1,9 @@
+{
+  "type": "item",
+  "item": "minecraft:bricks",
+  "count": {
+    "type": "random",
+    "min": 1,
+    "max": 32
+  }
+}

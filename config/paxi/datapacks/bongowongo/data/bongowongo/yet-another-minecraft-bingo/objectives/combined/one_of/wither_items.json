@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wither_items",
+      "fallback": "Any Wither Item"
+    },
+    "item": "minecraft:nether_star"
+  },
+  "objectives": [
+
+    "minecraft:beacon",
+    "minecraft:nether_star",
+    "minecraft:wither_rose"
+
+  ]
+}

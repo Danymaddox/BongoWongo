@@ -1,0 +1,37 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.warped_wood",
+      "fallback": "Any Warped Wood"
+    },
+    "item": "minecraft:warped_stem"
+  },
+  "objectives": [
+
+    "minecraft:nether_sprouts",
+    "minecraft:stripped_warped_hyphae",
+    "minecraft:stripped_warped_stem",
+    "minecraft:twisting_vines",
+    "minecraft:warped_button",
+    "minecraft:warped_door",
+    "minecraft:warped_fence_gate",
+    "minecraft:warped_fence",
+    "minecraft:warped_fungus",
+    "minecraft:warped_hanging_sign",
+    "minecraft:warped_hyphae",
+    "minecraft:warped_nylium",
+    "minecraft:warped_planks",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_roots",
+    "minecraft:warped_sign",
+    "minecraft:warped_slab",
+    "minecraft:warped_stairs",
+    "minecraft:warped_stem",
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_wart_block",
+    "supplementaries:way_sign_warped",
+    "suppsquared:item_shelf_warped"
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.simplified.one_of_stone",
+      "fallback": "Any Stone"
+    },
+    "item": "minecraft:stone"
+  },
+  "objectives": [
+    "minecraft:stone",
+    "minecraft:stone_stairs",
+    "minecraft:stone_slab",
+    "minecraft:stone_pressure_plate",
+    "minecraft:stone_button",
+    "minecraft:smooth_stone",
+    "minecraft:smooth_stone_slab",
+    "minecraft:stone_bricks",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:stone_brick_stairs",
+    "minecraft:stone_brick_slab",
+    "minecraft:stone_brick_wall",
+    "minecraft:chiseled_stone_bricks"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_gravel",
+      "fallback": "Any Gravel"
+    },
+    "item": "supplementaries:gravel_bricks"
+  },
+  "objectives": [
+
+    "supplementaries:gravel_bricks",
+    "supplementaries:raked_gravel"
+
+  ]
+}

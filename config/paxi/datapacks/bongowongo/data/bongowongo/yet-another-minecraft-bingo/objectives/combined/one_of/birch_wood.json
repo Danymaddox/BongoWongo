@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.birch_wood",
+      "fallback": "Any Birch Wood"
+    },
+    "item": "minecraft:birch_log"
+  },
+  "objectives": [
+
+    "minecraft:birch_boat",
+    "minecraft:birch_button",
+    "minecraft:birch_chest_boat",
+    "minecraft:birch_door",
+    "minecraft:birch_fence_gate",
+    "minecraft:birch_fence",
+    "minecraft:birch_hanging_sign",
+    "minecraft:birch_leaves",
+    "minecraft:birch_log",
+    "minecraft:birch_planks",
+    "minecraft:birch_pressure_plate",
+    "minecraft:birch_sapling",
+    "minecraft:birch_sign",
+    "minecraft:birch_slab",
+    "minecraft:birch_stairs",
+    "minecraft:birch_trapdoor",
+    "minecraft:birch_wood",
+    "minecraft:stripped_birch_log",
+    "minecraft:stripped_birch_wood",
+    "supplementaries:item_shelf_birch",
+    "supplementaries:way_sign_birch"
+
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.beehives",
+      "fallback": "Any Beehive"
+    },
+    "item": "minecraft:beehive"
+  },
+  "objectives": [
+
+    "friendsandfoes:acacia_beehive",
+    "friendsandfoes:bamboo_beehive",
+    "friendsandfoes:birch_beehive",
+    "friendsandfoes:cherry_beehive",
+    "friendsandfoes:crimson_beehive",
+    "friendsandfoes:dark_oak_beehive",
+    "friendsandfoes:jungle_beehive",
+    "friendsandfoes:mangrove_beehive",
+    "friendsandfoes:spruce_beehive",
+    "friendsandfoes:warped_beehive",
+    "minecraft:bee_nest",
+    "minecraft:beehive"
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mushroom",
+      "fallback": "Any Mushroom"
+    },
+    "item": "minecraft:brown_mushroom"
+  },
+  "objectives": [
+
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:fermented_spider_eye"
+
+  ]
+}

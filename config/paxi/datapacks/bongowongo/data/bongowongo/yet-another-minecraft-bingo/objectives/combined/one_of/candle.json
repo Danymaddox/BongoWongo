@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.candle",
+      "fallback": "Any Candle"
+    },
+    "item": "minecraft:cyan_candle"
+  },
+  "objectives": [
+    "#minecraft:candles"
+  ]
+}

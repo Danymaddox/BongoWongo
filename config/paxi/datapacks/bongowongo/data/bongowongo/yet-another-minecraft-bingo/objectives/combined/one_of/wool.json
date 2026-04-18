@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wool",
+      "fallback": "Any Wool"
+    },
+    "item": "minecraft:cyan_wool"
+  },
+  "objectives": [
+    "#minecraft:wool"
+  ]
+}

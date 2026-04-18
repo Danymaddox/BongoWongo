@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.planks_nether",
+      "fallback": "Any Nether Planks"
+    },
+    "item": "minecraft:warped_planks"
+  },
+  "objectives": [
+
+    "minecraft:crimson_planks",
+    "minecraft:warped_planks"
+
+  ]
+}

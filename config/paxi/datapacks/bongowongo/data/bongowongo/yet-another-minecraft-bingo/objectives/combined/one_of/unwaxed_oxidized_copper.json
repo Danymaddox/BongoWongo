@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.unwaxed_oxidized_copper",
+      "fallback": "Any Unwaxed Oxidized Copper"
+    },
+    "item": "minecraft:oxidized_copper"
+  },
+  "objectives": [
+
+    "friendsandfoes:oxidized_copper_button",
+    "friendsandfoes:oxidized_lightning_rod",
+    "minecraft:oxidized_chiseled_copper",
+    "minecraft:oxidized_copper_bulb",
+    "minecraft:oxidized_copper_door",
+    "minecraft:oxidized_copper_grate",
+    "minecraft:oxidized_copper_trapdoor",
+    "minecraft:oxidized_copper",
+    "minecraft:oxidized_cut_copper_slab",
+    "minecraft:oxidized_cut_copper_stairs",
+    "minecraft:oxidized_cut_copper"
+
+  ]
+}

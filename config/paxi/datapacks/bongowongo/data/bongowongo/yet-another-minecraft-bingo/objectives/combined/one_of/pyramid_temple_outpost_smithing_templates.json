@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pyramid_temple_outpost_smithing_templates",
+      "fallback": "Pyramid, Temple or Pillager Outpost Smithing Template"
+    },
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  },
+  "objectives": [
+
+    "minecraft:dune_armor_trim_smithing_template",
+    "minecraft:sentry_armor_trim_smithing_template",
+    "minecraft:wild_armor_trim_smithing_template"
+
+  ]
+}

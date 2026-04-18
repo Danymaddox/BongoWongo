@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.jungle_wood",
+      "fallback": "Any Jungle"
+    },
+    "item": "minecraft:jungle_log"
+  },
+  "objectives": [
+
+    "minecraft:jungle_boat",
+    "minecraft:jungle_button",
+    "minecraft:jungle_chest_boat",
+    "minecraft:jungle_door",
+    "minecraft:jungle_fence_gate",
+    "minecraft:jungle_fence",
+    "minecraft:jungle_hanging_sign",
+    "minecraft:jungle_leaves",
+    "minecraft:jungle_log",
+    "minecraft:jungle_planks",
+    "minecraft:jungle_pressure_plate",
+    "minecraft:jungle_sapling",
+    "minecraft:jungle_sign",
+    "minecraft:jungle_slab",
+    "minecraft:jungle_stairs",
+    "minecraft:jungle_trapdoor",
+    "minecraft:jungle_wood",
+    "minecraft:stripped_jungle_log",
+    "minecraft:stripped_jungle_wood",
+    "supplementaries:item_shelf_jungle",
+    "supplementaries:way_sign_jungle"
+
+  ]
+}

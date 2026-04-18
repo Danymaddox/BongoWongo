@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.oak_wood",
+      "fallback": "Any Oak Wood"
+    },
+    "item": "minecraft:oak_log"
+  },
+  "objectives": [
+
+    "minecraft:oak_boat",
+    "minecraft:oak_button",
+    "minecraft:oak_chest_boat",
+    "minecraft:oak_door",
+    "minecraft:oak_fence_gate",
+    "minecraft:oak_fence",
+    "minecraft:oak_hanging_sign",
+    "minecraft:oak_leaves",
+    "minecraft:oak_log",
+    "minecraft:oak_planks",
+    "minecraft:oak_pressure_plate",
+    "minecraft:oak_sapling",
+    "minecraft:oak_sign",
+    "minecraft:oak_slab",
+    "minecraft:oak_stairs",
+    "minecraft:oak_trapdoor",
+    "minecraft:oak_wood",
+    "minecraft:stripped_oak_log",
+    "minecraft:stripped_oak_wood",
+    "supplementaries:item_shelf",
+    "supplementaries:way_sign_oak"
+
+  ]
+}

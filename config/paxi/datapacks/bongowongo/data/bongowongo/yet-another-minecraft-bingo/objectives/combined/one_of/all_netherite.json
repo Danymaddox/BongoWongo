@@ -1,0 +1,30 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_netherite",
+      "fallback": "Any Netherite Item"
+    },
+    "item": "minecraft:netherite"
+  },
+  "objectives": [
+
+    "minecraft:netherite_axe",
+    "minecraft:netherite_block",
+    "minecraft:netherite_boots",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_hoe",
+    "minecraft:netherite_ingot",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_scrap",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_sword",
+    "supplementaries:netherite_door",
+    "supplementaries:netherite_trapdoor",
+    "supplementaries:safe",
+    "suppsquared:heavy_key"
+    
+  ]
+}

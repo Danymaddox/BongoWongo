@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_lantern",
+      "fallback": "Any Lantern"
+    },
+    "item": "supplementaries:fire_pit"
+  },
+  "objectives": [
+
+"suppsquared:copper_lantern",
+"suppsquared:crimson_lantern",
+"supplementaries:stone_lamp",
+"supplementaries:blackstone_lamp",
+"supplementaries:deepslate_lamp",
+"supplementaries:end_stone_lamp",
+"supplementaries:fire_pit"
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.dragonfly_armor",
+      "fallback": "Any Dragonfly Armor"
+    },
+    "item": "crittersandcompanions:diamond_dragonfly_armor"
+  },
+  "objectives": [
+
+    "crittersandcompanions:diamond_dragonfly_armor",
+    "crittersandcompanions:gold_dragonfly_armor",
+    "crittersandcompanions:iron_dragonfly_armor"
+
+  ]
+}

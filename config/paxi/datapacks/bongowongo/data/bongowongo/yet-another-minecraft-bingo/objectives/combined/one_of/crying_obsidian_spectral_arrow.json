@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.crying_obsidian_spectral_arrow",
+      "fallback": "Any Crying Obsidian or Spectral Arrow"
+    },
+    "item": "minecraft:crying_obsidian"
+  },
+  "objectives": [
+
+    "minecraft:crying_obsidian",
+    "minecraft:spectral_arrow"
+    
+  ]
+}

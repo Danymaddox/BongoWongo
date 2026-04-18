@@ -1,0 +1,23 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.generic_tools",
+      "fallback": "Any Generic Tool"
+    },
+    "item": "minecraft:flint_and_steel"
+  },
+  "objectives": [
+    
+    "crittersandcompanions:silk_lead",
+    "minecraft:flint_and_steel",
+    "minecraft:lead",
+    "minecraft:shears",
+    "minecraft:shield",
+    "supplementaries:bomb",
+    "supplementaries:slingshot",
+    "supplementaries:wicker_fence",
+    "supplementaries:wrench"
+
+  ]
+}

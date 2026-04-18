@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.frames",
+      "fallback": "Any Acacia Wood"
+    },
+    "item": "minecraft:item_frame"
+  },
+  "objectives": [
+
+    "minecraft:item_frame",
+    "minecraft:glow_item_frame",
+    "minecraft:painting"
+
+  ]
+}

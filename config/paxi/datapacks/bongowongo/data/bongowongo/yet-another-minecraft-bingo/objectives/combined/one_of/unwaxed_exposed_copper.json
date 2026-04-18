@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.unwaxed_exposed_copper",
+      "fallback": "Any Unwaxed Exposed Copper"
+    },
+    "item": "minecraft:exposed_copper"
+  },
+  "objectives": [
+
+    "friendsandfoes:exposed_copper_button",
+    "friendsandfoes:exposed_lightning_rod",
+    "minecraft:exposed_chiseled_copper",
+    "minecraft:exposed_copper_bulb",
+    "minecraft:exposed_copper_door",
+    "minecraft:exposed_copper_grate",
+    "minecraft:exposed_copper_trapdoor",
+    "minecraft:exposed_copper",
+    "minecraft:exposed_cut_copper_slab",
+    "minecraft:exposed_cut_copper_stairs",
+    "minecraft:exposed_cut_copper"
+
+  ]
+}

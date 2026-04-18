@@ -1,0 +1,23 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.shear_plants",
+      "fallback": "Any Shearable Plant or Cobweb"
+    },
+    "item": "minecraft:short_grass"
+  },
+  "objectives": [
+
+    "minecraft:bush",
+    "minecraft:cobweb",
+    "minecraft:fern",
+    "minecraft:glow_lichen",
+    "minecraft:hanging_roots",
+    "minecraft:seagrass",
+    "minecraft:short_grass",
+    "minecraft:vine",
+    "supplementaries:wild_flax"
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.biome_specific_flowers",
+      "fallback": "Any Biome Specific Flowers"
+    },
+    "item": "minecraft:pink_petals"
+  },
+  "objectives": [
+
+    "minecraft:sea_pickle",
+    "minecraft:pink_petals",
+    "minecraft:blue_orchid",
+    "minecraft:sweet_berries",
+    "minecraft:cactus_flower"
+
+  ]
+}

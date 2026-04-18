@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.simple_flowers",
+      "fallback": "Any Simple Flower"
+    },
+    "item": "minecraft:poppy"
+  },
+  "objectives": [
+
+    "friendsandfoes:buttercup",
+    "minecraft:azure_bluet",
+    "minecraft:dandelion",
+    "minecraft:leaf_litter",
+    "minecraft:poppy"
+
+  ]
+}

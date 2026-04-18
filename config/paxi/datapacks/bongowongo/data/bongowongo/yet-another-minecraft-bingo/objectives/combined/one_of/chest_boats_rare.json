@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.chest_boats_rare",
+      "fallback": "Any Rare Chest Boat"
+    },
+    "item": "minecraft:cherry_chest_boat"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_chest_raft",
+    "minecraft:cherry_chest_boat",
+    "minecraft:mangrove_chest_boat",
+    "minecraft:pale_oak_chest_boat"
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.flags",
+      "fallback": "Any Flag"
+    },
+    "item": "supplementaries:cyan_flag"
+  },
+  "objectives": [
+    "#supplementaries:flags"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.emeralds",
+      "fallback": "Any Emerald"
+    },
+    "item": "minecraft:emerald"
+  },
+  "objectives": [
+    
+  "minecraft:emerald",
+  "minecraft:emerald_block"
+
+  ]
+}

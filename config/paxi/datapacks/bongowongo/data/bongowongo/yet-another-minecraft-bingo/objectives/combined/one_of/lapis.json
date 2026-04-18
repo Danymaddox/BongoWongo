@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.lapis",
+      "fallback": "Any Lapis"
+    },
+    "item": "minecraft:lapis_lazuli"
+  },
+  "objectives": [
+
+    "minecraft:lapis_block",
+    "minecraft:lapis_lazuli",
+    "supplementaries:lapis_bricks_slab",
+    "supplementaries:lapis_bricks_stairs",
+    "supplementaries:lapis_bricks_wall",
+    "supplementaries:lapis_bricks"
+
+  ]
+}

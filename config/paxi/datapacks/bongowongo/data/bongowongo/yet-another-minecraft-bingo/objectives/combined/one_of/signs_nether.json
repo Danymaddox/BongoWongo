@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.signs_nether",
+      "fallback": "Any Nether Sign"
+    },
+    "item": "minecraft:warped_sign"
+  },
+  "objectives": [
+
+    "minecraft:crimson_sign",
+    "minecraft:warped_sign"
+
+  ]
+}

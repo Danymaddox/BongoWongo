@@ -1,0 +1,17 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.all_of_plaques",
+      "fallback": "Any Plaque"
+    },
+    "item": "suppsquared:copper_plaque"
+  },
+  "objectives": [
+
+    "suppsquared:iron_plaque",
+    "suppsquared:copper_plaque",
+    "suppsquared:gold_plaque"
+
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.prismarine",
+      "fallback": "Any Prismarine Item"
+    },
+    "item": "minecraft:prismarine"
+  },
+  "objectives": [
+
+    "minecraft:dark_prismarine_slab",
+    "minecraft:dark_prismarine_stairs",
+    "minecraft:dark_prismarine",
+    "minecraft:prismarine_brick_stairs",
+    "minecraft:prismarine_bricks",
+    "minecraft:prismarine_crystals",
+    "minecraft:prismarine_shard",
+    "minecraft:prismarine_slab",
+    "minecraft:prismarine_stairs",
+    "minecraft:prismarine_wall",
+    "minecraft:prismarine",
+    "minecraft:sea_lantern"
+    
+  ]
+}

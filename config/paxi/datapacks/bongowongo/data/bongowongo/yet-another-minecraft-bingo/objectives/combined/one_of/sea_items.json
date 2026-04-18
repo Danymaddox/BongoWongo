@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sea_items",
+      "fallback": "Any Sea Related Item"
+    },
+    "item": "minecraft:nautilus_shell"
+  },
+  "objectives": [
+
+    "crittersandcompanions:clam",
+    "crittersandcompanions:pearl",
+    "minecraft:conduit",
+    "minecraft:heart_of_the_sea",
+    "minecraft:nautilus_shell",
+    "minecraft:tide_armor_trim_smithing_template",
+    "minecraft:trident",
+    "minecraft:turtle_helmet",
+    "minecraft:turtle_scute",
+    "minecraft:sponge",
+    "minecraft:wet_sponge"
+
+  ]
+}

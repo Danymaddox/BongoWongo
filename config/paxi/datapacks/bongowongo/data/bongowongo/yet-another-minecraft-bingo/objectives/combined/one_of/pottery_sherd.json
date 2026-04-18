@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pottery_sherd",
+      "fallback": "Any Pottery Sherd"
+    },
+    "item": "minecraft:angler_pottery_sherd"
+  },
+  "objectives": [
+    "#minecraft:decorated_pot_sherds"
+  ]
+}

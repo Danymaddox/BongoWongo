@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.bastion_exclussive",
+      "fallback": "Netherite Upgrade, Piglin Banner Pattern or Snout Smithing Template"
+    },
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "objectives": [
+
+    "minecraft:netherite_upgrade_smithing_template",
+    "minecraft:piglin_banner_pattern",
+    "minecraft:snout_armor_trim_smithing_template"
+
+  ]
+}

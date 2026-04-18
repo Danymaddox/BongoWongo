@@ -1,0 +1,13 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sleeping_bag",
+      "fallback": "Any Sleeping Bag"
+    },
+    "item": "comforts:cyan_sleeping_bag"
+  },
+  "objectives": [
+    "#comforts:sleeping_bags"
+  ]
+}

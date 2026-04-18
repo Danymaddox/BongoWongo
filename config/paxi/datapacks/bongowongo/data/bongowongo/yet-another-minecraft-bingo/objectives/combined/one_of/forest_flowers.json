@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.forest_flowers",
+      "fallback": "Any Flower Forest Flower"
+    },
+    "item": "minecraft:pitcher_plant"
+  },
+  "objectives": [
+    "minecraft:allium",
+    "minecraft:cornflower",
+    "minecraft:firefly_bush",
+    "minecraft:flower_banner_pattern",
+    "minecraft:lily_of_the_valley",
+    "minecraft:orange_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:pink_tulip",
+    "minecraft:red_tulip",
+    "minecraft:white_tulip"
+  ]
+}

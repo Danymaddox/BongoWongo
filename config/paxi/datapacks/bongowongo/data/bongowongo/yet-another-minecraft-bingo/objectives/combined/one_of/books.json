@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.books",
+      "fallback": "Any Books"
+    },
+    "item": "minecraft:book"
+  },
+  "objectives": [
+
+    "minecraft:book",
+    "minecraft:bookshelf",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:lectern",
+    "minecraft:writable_book"
+
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.dark_oak_wood",
+      "fallback": "Any Dark Oak Wood"
+    },
+    "item": "minecraft:dark_oak_log"
+  },
+  "objectives": [
+
+    "minecraft:dark_oak_boat",
+    "minecraft:dark_oak_button",
+    "minecraft:dark_oak_chest_boat",
+    "minecraft:dark_oak_door",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_hanging_sign",
+    "minecraft:dark_oak_leaves",
+    "minecraft:dark_oak_log",
+    "minecraft:dark_oak_planks",
+    "minecraft:dark_oak_pressure_plate",
+    "minecraft:dark_oak_sapling",
+    "minecraft:dark_oak_sign",
+    "minecraft:dark_oak_slab",
+    "minecraft:dark_oak_stairs",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_wood",
+    "minecraft:stripped_dark_oak_log",
+    "minecraft:stripped_dark_oak_wood",
+    "supplementaries:item_shelf_dark_oak",
+    "supplementaries:way_sign_dark_oak"
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.blackstone",
+      "fallback": "Any Basalt or Magma Block"
+    },
+    "item": "minecraft:blackstone"
+  },
+  "objectives": [
+
+    "minecraft:basalt",
+    "minecraft:magma_block",
+    "minecraft:smooth_basalt",
+    "minecraft:polished_basalt"
+
+  ]
+}

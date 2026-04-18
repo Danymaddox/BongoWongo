@@ -1,0 +1,56 @@
+{
+    "values": [],
+    "S": [
+        
+    ],
+    "A": [
+
+    ],
+    "B": [
+        
+    ],
+    "C": [
+        "bongowongo:supplementaries/one_of/one_of_blackstone",
+        "bongowongo:supplementaries/one_of/one_of_lapis",
+        "supplementaries:soap",
+        "supplementaries:soap_block"
+    ],
+    "D": [
+        "bongowongo:supplementaries/one_of/one_of_stone",
+        "bongowongo:supplementaries/one_of/one_of_awning",
+        "bongowongo:supplementaries/one_of/one_of_bunting",
+        "bongowongo:supplementaries/one_of/one_of_flag",
+        "bongowongo:supplementaries/one_of/one_of_sack",
+        "bongowongo:supplementaries/one_of/one_of_present",
+        "bongowongo:supplementaries/one_of/one_of_trapped_present",
+        "bongowongo:supplementaries/one_of/one_of_gravel",
+        "bongowongo:supplementaries/one_of/one_of_ash",
+        "bongowongo:supplementaries/one_of/one_of_daub",
+"bongowongo:supplementaries/one_of/one_of_gold_candle_holder",
+        "minecraft:diamond",
+        "bongowongo:one_of_nesting"
+    ],
+    "groups": [
+        [
+        "bongowongo:supplementaries/one_of/one_of_stone",
+        "bongowongo:minecraft/one_of/one_of_stone"
+        ],
+        [
+        "bongowongo:supplementaries/one_of/one_of_gravel",
+        "minecraft:gravel"
+        ],
+        [
+            "bongowongo:supplementaries/one_of/one_of_ash"
+        ],
+        [
+            "bongowongo:supplementaries/one_of/one_of_blackstone",
+            "bongowongo:minecraft/one_of/one_of_blackstone"
+        ],
+        [
+        "bongowongo:supplementaries/one_of/one_of_planter_and_way_sign"
+        ],
+        [
+            
+        ]
+    ]
+}

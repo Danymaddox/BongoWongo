@@ -1,0 +1,26 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_diamond",
+      "fallback": "Any Diamond related item"
+    },
+    "item": "minecraft:diamond_block"
+  },
+  "objectives": [
+    "crittersandcompanions:diamond_dragonfly_armor",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_block",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_hoe",
+    "minecraft:diamond_horse_armor",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_spear",
+    "minecraft:diamond_sword",
+    "minecraft:diamond"
+  ]
+}

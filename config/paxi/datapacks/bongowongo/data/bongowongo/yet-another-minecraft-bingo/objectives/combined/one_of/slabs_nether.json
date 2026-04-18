@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.slabs_nether",
+      "fallback": "Any Nether Slab"
+    },
+    "item": "minecraft:warped_slab"
+  },
+  "objectives": [
+
+    "minecraft:crimson_slab",
+    "minecraft:warped_slab"
+
+  ]
+}

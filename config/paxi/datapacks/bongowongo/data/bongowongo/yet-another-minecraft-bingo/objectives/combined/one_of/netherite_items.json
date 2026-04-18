@@ -1,0 +1,22 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.netherite_items",
+      "fallback": "Any Netherite Item"
+    },
+    "item": "minecraft:netherite_scrap"
+  },
+  "objectives": [
+
+    "minecraft:ancient_debris",
+    "minecraft:lodestone",
+    "minecraft:netherite_ingot",
+    "minecraft:netherite_scrap",
+    "supplementaries:netherite_door",
+    "supplementaries:netherite_trapdoor",
+    "supplementaries:safe",
+    "suppsquared:heavy_key"
+
+  ]
+}

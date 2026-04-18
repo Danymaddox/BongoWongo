@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.end_stone",
+      "fallback": "Any End Stone"
+    },
+    "item": "minecraft:end_stone"
+  },
+  "objectives": [
+
+    "minecraft:end_stone_brick_slab",
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone",
+    "supplementaries:end_stone_lamp"
+
+  ]
+}

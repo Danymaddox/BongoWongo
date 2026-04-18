@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.double_plants",
+      "fallback": "Any Double Plant"
+    },
+    "item": "minecraft:lilac"
+  },
+  "objectives": [
+
+    "minecraft:dried_kelp_block",
+    "minecraft:dried_kelp",
+    "minecraft:kelp",
+    "minecraft:lilac",
+    "minecraft:peony",
+    "minecraft:rose_bush",
+    "minecraft:sunflower"
+
+  ]
+}

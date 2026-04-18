@@ -1,0 +1,30 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.supplementaries.one_of_bunting",
+      "fallback": "Any Bunting"
+    },
+    "item": "supplementaries:bunting_cyan"
+  },
+  "objectives": [
+
+    "supplementaries:bunting_white",
+    "supplementaries:bunting_light_gray",
+    "supplementaries:bunting_gray",
+    "supplementaries:bunting_black",
+    "supplementaries:bunting_brown",
+    "supplementaries:bunting_red",
+    "supplementaries:bunting_orange",
+    "supplementaries:bunting_yellow",
+    "supplementaries:bunting_lime",
+    "supplementaries:bunting_green",
+    "supplementaries:bunting_cyan",
+    "supplementaries:bunting_light_blue",
+    "supplementaries:bunting_blue",
+    "supplementaries:bunting_purple",
+    "supplementaries:bunting_magenta",
+    "supplementaries:bunting_pink"
+
+  ]
+}

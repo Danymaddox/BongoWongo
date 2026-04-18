@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.mob_heads",
+      "fallback": "Any Mob Head"
+    },
+    "item": "minecraft:creeper_head"
+  },
+  "objectives": [
+
+    "minecraft:creeper_banner_pattern",
+    "minecraft:creeper_head",
+    "minecraft:piglin_head",
+    "minecraft:skeleton_skull",
+    "minecraft:zombie_head",
+    "supplementaries:enderman_head",
+    "supplementaries:spider_head"
+
+  ]
+}

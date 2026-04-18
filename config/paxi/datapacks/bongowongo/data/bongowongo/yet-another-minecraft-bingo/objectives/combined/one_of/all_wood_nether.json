@@ -1,0 +1,58 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_wood_nether",
+      "fallback": "Any Nether Wood"
+    },
+    "item": "minecraft:warped_wood"
+  },
+  "objectives": [
+
+    "minecraft:crimson_button",
+    "minecraft:crimson_door",
+    "minecraft:crimson_fence_gate",
+    "minecraft:crimson_fence",
+    "minecraft:crimson_fungus",
+    "minecraft:crimson_hanging_sign",
+    "minecraft:crimson_hyphae",
+    "minecraft:crimson_nylium",
+    "minecraft:crimson_planks",
+    "minecraft:crimson_pressure_plate",
+    "minecraft:crimson_roots",
+    "minecraft:crimson_sign",
+    "minecraft:crimson_stairs",
+    "minecraft:crimson_stem",
+    "minecraft:crimson_trapdoor",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_wart_block",
+    "minecraft:stripped_crimson_hyphae",
+    "minecraft:stripped_crimson_stem",
+    "minecraft:stripped_warped_hyphae",
+    "minecraft:stripped_warped_stem",
+    "minecraft:twisting_vines",
+    "minecraft:warped_button",
+    "minecraft:warped_door",
+    "minecraft:warped_fence_gate",
+    "minecraft:warped_fence",
+    "minecraft:warped_fungus",
+    "minecraft:warped_hanging_sign",
+    "minecraft:warped_hyphae",
+    "minecraft:warped_nylium",
+    "minecraft:warped_planks",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_roots",
+    "minecraft:warped_sign",
+    "minecraft:warped_slab",
+    "minecraft:warped_stairs",
+    "minecraft:warped_stem",
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_wart_block",
+    "minecraft:weeping_vines",
+    "supplementaries:way_sign_crimson",
+    "supplementaries:way_sign_warped",
+    "suppsquared:item_shelf_crimson",
+    "suppsquared:item_shelf_warped"
+
+  ]
+}
