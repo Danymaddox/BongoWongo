@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.hoes",
+      "fallback": "Any Hoe"
+    },
+    "item": "minecraft:stone_hoe"
+  },
+  "objectives": [
+
+    "minecraft:copper_hoe",
+    "minecraft:diamond_hoe",
+    "minecraft:golden_hoe",
+    "minecraft:iron_hoe",
+    "minecraft:netherite_hoe",
+    "minecraft:stone_hoe",
+    "minecraft:wooden_hoe"
+
+  ]
+}

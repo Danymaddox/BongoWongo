@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.waxed_copper_slabs",
+      "fallback": "Any Waxed Copper Slab"
+    },
+    "item": "minecraft:waxed_copper_slab"
+  },
+  "objectives": [
+
+    "minecraft:waxed_copper_slab",
+    "minecraft:waxed_exposed_copper_slab",
+    "minecraft:waxed_oxidized_copper_slab",
+    "minecraft:waxed_weathered_copper_slab"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.chorus",
+      "fallback": "Any Chorus"
+    },
+    "item": "minecraft:chorus_fruit"
+  },
+  "objectives": [
+
+    "minecraft:chorus_flower",
+    "minecraft:chorus_fruit",
+    "minecraft:popped_chorus_fruit"
+
+  ]
+}

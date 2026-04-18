@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.pickaxes",
+      "fallback": "Any Pickaxe"
+    },
+    "item": "minecraft:stone_pickaxe"
+  },
+  "objectives": [
+
+    "minecraft:copper_pickaxe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:golden_pickaxe",
+    "minecraft:iron_pickaxe",
+    "minecraft:netherite_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe"
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.quartz_stairs",
+      "fallback": "Any Quartz Stairs"
+    },
+    "item": "minecraft:quartz_stairs"
+  },
+  "objectives": [
+
+    "minecraft:quartz_stairs",
+    "minecraft:smooth_quartz_stairs"
+
+  ]
+}

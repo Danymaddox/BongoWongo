@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_hanging_signs_nether",
+      "fallback": "Any Nether Hanging Sign"
+    },
+    "item": "minecraft:warped_hanging_sign"
+  },
+  "objectives": [
+
+    "minecraft:crimson_hanging_sign",
+    "minecraft:warped_hanging_sign"
+
+  ]
+}

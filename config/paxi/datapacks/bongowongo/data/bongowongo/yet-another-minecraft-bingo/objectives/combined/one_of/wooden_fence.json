@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_fence",
+      "fallback": "Any Basic Fence"
+    },
+    "item": "minecraft:oak_fence"
+  },
+  "objectives": [
+
+    "minecraft:acacia_fence",
+    "minecraft:birch_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:jungle_fence",
+    "minecraft:oak_fence",
+    "minecraft:spruce_fence"
+
+  ]
+}

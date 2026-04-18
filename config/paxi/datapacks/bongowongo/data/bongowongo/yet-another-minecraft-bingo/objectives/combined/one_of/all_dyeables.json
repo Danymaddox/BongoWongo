@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_dyeables",
+      "fallback": "Any Dyeable"
+    },
+    "item": "minecraft:cyan_wool"
+  },
+  "objectives": [
+
+    "#c:dyed"
+
+  ]
+}

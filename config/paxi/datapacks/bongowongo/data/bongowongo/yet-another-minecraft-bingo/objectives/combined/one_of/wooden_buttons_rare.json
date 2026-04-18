@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_buttons_rare",
+      "fallback": "Any Rare Button"
+    },
+    "item": "minecraft:cherry_button"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_button",
+    "minecraft:cherry_button",
+    "minecraft:mangrove_button",
+    "minecraft:pale_oak_button"
+
+  ]
+}

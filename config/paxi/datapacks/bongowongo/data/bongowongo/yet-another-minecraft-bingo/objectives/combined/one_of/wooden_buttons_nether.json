@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_buttons_nether",
+      "fallback": "Any Nether Button"
+    },
+    "item": "minecraft:warped_button"
+  },
+  "objectives": [
+
+    "minecraft:crimson_button",
+    "minecraft:warped_button"
+
+  ]
+}

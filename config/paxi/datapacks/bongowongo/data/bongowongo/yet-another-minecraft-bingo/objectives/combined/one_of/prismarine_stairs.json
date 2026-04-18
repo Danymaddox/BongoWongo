@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.prismarine_stairs",
+      "fallback": "Any Prismarine Stairs"
+    },
+    "item": "minecraft:prismarine_stairs"
+  },
+  "objectives": [
+
+    "minecraft:dark_prismarine_stairs",
+    "minecraft:prismarine_brick_stairs",
+    "minecraft:prismarine_stairs"
+    
+  ]
+}

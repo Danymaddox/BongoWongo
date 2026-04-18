@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_fence_nether",
+      "fallback": "Any Nether Fence"
+    },
+    "item": "minecraft:warped_fence"
+  },
+  "objectives": [
+
+    "minecraft:crimson_fence",
+    "minecraft:warped_fence"
+
+  ]
+}

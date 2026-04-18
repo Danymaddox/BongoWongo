@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.quartz_slabs",
+      "fallback": "Any Quartz Slab"
+    },
+    "item": "minecraft:quartz_slab"
+  },
+  "objectives": [
+
+    "minecraft:quartz_slab",
+    "minecraft:smooth_quartz_slab"
+
+  ]
+}

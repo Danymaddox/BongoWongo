@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.tuff_stairs",
+      "fallback": "Any Tuff Stairs"
+    },
+    "item": "minecraft:tuff_stairs"
+  },
+  "objectives": [
+
+    "minecraft:polished_tuff_stairs",
+    "minecraft:tuff_brick_stairs",
+    "minecraft:tuff_stairs"
+
+  ]
+}

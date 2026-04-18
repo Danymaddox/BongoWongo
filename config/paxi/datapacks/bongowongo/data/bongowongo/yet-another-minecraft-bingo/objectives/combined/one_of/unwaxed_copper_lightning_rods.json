@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.unwaxed_copper_lightning_rods",
+      "fallback": "Any Unwaxed Copper Lightning Rod"
+    },
+    "item": "minecraft:copper_block"
+  },
+  "objectives": [
+
+    "friendsandfoes:exposed_lightning_rod",
+    "friendsandfoes:lightning_rod",
+    "friendsandfoes:weathered_lightning_rod",
+    "minecraft:lightning_rod"
+
+  ]
+}

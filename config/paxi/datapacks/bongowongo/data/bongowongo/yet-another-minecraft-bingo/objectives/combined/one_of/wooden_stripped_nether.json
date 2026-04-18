@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_stripped_nether",
+      "fallback": "Any Nether Stripped Wood"
+    },
+    "item": "minecraft:stripped_warped_hyphae"
+  },
+  "objectives": [
+
+    "minecraft:stripped_crimson_hyphae",
+    "minecraft:stripped_crimson_stem",
+    "minecraft:stripped_warped_hyphae",
+    "minecraft:stripped_warped_stem"
+
+  ]
+}

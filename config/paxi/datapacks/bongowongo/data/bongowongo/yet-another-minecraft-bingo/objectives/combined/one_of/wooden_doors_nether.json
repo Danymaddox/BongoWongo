@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_doors_nether",
+      "fallback": "Any Nether Door"
+    },
+    "item": "minecraft:warped_door"
+  },
+  "objectives": [
+
+    "minecraft:crimson_door",
+    "minecraft:warped_door"
+
+  ]
+}

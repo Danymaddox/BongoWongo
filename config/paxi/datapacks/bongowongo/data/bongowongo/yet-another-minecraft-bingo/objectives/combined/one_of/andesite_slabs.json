@@ -1,0 +1,14 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.andesite_slabs",
+      "fallback": "Any Andesite Slab"
+    },
+    "item": "minecraft:andesite_slab"
+  },
+  "objectives": [
+    "minecraft:andesite_slab",
+    "minecraft:polished_andesite_slab"
+  ]
+}

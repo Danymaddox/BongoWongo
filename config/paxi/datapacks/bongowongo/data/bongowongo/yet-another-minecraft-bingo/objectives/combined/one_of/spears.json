@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.spears",
+      "fallback": "Any Spear"
+    },
+    "item": "minecraft:stone_spear"
+  },
+  "objectives": [
+
+    "minecraft:copper_spear",
+    "minecraft:diamond_spear",
+    "minecraft:golden_spear",
+    "minecraft:iron_spear",
+    "minecraft:netherite_spear",
+    "minecraft:stone_spear",
+    "minecraft:wooden_spear"
+
+  ]
+}

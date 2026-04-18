@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_magenta",
+      "fallback": "Any Magenta Item"
+    },
+    "item": "minecraft:magenta_wool"
+  },
+  "objectives": [
+
+    "#c:dyed/magenta"
+
+  ]
+}

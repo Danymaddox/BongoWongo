@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.axes",
+      "fallback": "Any Axe"
+    },
+    "item": "minecraft:stone_axe"
+  },
+  "objectives": [
+
+    "minecraft:copper_axe",
+    "minecraft:diamond_axe",
+    "minecraft:golden_axe",
+    "minecraft:iron_axe",
+    "minecraft:netherite_axe",
+    "minecraft:stone_axe",
+    "minecraft:wooden_axe"
+
+  ]
+}

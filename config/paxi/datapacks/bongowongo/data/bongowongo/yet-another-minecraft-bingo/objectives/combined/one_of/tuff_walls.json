@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.tuff_walls",
+      "fallback": "Any Tuff Walls"
+    },
+    "item": "minecraft:tuff_wall"
+  },
+  "objectives": [
+
+    "minecraft:polished_tuff_wall",
+    "minecraft:tuff_brick_wall",
+    "minecraft:tuff_wall"
+
+  ]
+}

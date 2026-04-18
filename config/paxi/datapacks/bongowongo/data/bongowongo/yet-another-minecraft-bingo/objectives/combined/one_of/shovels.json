@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.shovels",
+      "fallback": "Any Shovel"
+    },
+    "item": "minecraft:stone_shovel"
+  },
+  "objectives": [
+
+    "minecraft:copper_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:netherite_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:wooden_shovel"
+
+  ]
+}

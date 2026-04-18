@@ -1,0 +1,21 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.swords",
+      "fallback": "Any Sword"
+    },
+    "item": "minecraft:stone_sword"
+  },
+  "objectives": [
+
+    "minecraft:copper_sword",
+    "minecraft:diamond_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:netherite_sword",
+    "minecraft:stone_sword",
+    "minecraft:wooden_sword"
+
+  ]
+}

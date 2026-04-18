@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.stone_walls",
+      "fallback": "Any Stone Brick or Mossy Stone Wall"
+    },
+    "item": "minecraft:mossy_cobblestone_wall"
+  },
+  "objectives": [
+
+    "minecraft:mossy_cobblestone_wall",
+    "minecraft:mossy_stone_brick_wall",
+    "minecraft:stone_brick_wall",
+    "supplementaries:stone_tile_wall"
+
+  ]
+}

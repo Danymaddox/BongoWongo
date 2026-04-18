@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_red",
+      "fallback": "Any Red Item"
+    },
+    "item": "minecraft:red_wool"
+  },
+  "objectives": [
+
+    "#c:dyed/red"
+
+  ]
+}

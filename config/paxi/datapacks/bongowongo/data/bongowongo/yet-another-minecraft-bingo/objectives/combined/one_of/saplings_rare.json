@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.saplings_rare",
+      "fallback": "Any Rare Sapling"
+    },
+    "item": "minecraft:cherry_sapling"
+  },
+  "objectives": [
+
+    "minecraft:mangrove_propagule",
+    "minecraft:cherry_sapling",
+    "minecraft:pale_oak_sapling",
+    "minecraft:azalea",
+    "minecraft:flowering_azalea"
+
+  ]
+}

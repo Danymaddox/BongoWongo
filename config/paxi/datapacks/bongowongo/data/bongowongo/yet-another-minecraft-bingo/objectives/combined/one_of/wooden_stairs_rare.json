@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_stairs_rare",
+      "fallback": "Any Rare Stairs"
+    },
+    "item": "minecraft:cherry_stairs"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_stairs",
+    "minecraft:bamboo_mosaic_stairs",
+    "minecraft:cherry_stairs",
+    "minecraft:mangrove_stairs",
+    "minecraft:pale_oak_stairs"
+
+  ]
+}

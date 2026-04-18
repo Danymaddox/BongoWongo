@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.deepslate_walls",
+      "fallback": "Any Deepslate Wall"
+    },
+    "item": "minecraft:deepslate_wall"
+  },
+  "objectives": [
+
+    "minecraft:cobbled_deepslate_wall",
+    "minecraft:deepslate_brick_wall",
+    "minecraft:deepslate_tile_wall",
+    "minecraft:polished_deepslate_wall"
+
+  ]
+}

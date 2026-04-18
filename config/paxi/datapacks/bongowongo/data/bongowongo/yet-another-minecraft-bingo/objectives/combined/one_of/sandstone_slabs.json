@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.sandstone_slabs",
+      "fallback": "Any Sandstone Slab"
+    },
+    "item": "minecraft:sandstone_slab"
+  },
+  "objectives": [
+
+    "minecraft:cut_sandstone_slab",
+    "minecraft:sandstone_slab",
+    "minecraft:smooth_sandstone_slab"
+
+  ]
+}

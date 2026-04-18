@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.unwaxed_copper_trapdoors",
+      "fallback": "Any Unwaxed Copper Trapdoor"
+    },
+    "item": "minecraft:copper_trapdoor"
+  },
+  "objectives": [
+
+    "minecraft:copper_trapdoor",
+    "minecraft:exposed_copper_trapdoor",
+    "minecraft:oxidized_copper_trapdoor",
+    "minecraft:weathered_copper_trapdoor"
+
+
+  ]
+}

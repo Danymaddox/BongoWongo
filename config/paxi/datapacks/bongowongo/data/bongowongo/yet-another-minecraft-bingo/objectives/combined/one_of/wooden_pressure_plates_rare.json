@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_pressure_plates_rare",
+      "fallback": "Any Rare Pressure Plate"
+    },
+    "item": "minecraft:cherry_pressure_plate"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_pressure_plate",
+    "minecraft:cherry_pressure_plate",
+    "minecraft:mangrove_pressure_plate",
+    "minecraft:pale_oak_pressure_plate"
+
+  ]
+}

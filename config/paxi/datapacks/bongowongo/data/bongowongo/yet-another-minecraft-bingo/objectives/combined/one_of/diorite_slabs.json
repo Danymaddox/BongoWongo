@@ -1,0 +1,14 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.diorite_slabs",
+      "fallback": "Any Diorite Slab"
+    },
+    "item": "minecraft:diorite_slab"
+  },
+  "objectives": [
+    "minecraft:diorite_slab",
+    "minecraft:polished_diorite_slab"
+  ]
+}

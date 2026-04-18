@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.daub_stairs",
+      "fallback": "Any Daub Stairs"
+    },
+    "item": "supplementaries:daub_stairs"
+  },
+  "objectives": [
+
+    "suppsquared:daub_frame_stairs",
+    "suppsquared:daub_stairs"
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.blackstone_stairs",
+      "fallback": "Any Blackstone Stairs"
+    },
+    "item": "minecraft:blackstone_stairs"
+  },
+  "objectives": [
+
+    "minecraft:blackstone_stairs",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:polished_blackstone_stairs",
+    "supplementaries:blackstone_tile_stairs"
+
+  ]
+}

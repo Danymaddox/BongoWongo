@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.waxed_copper_buttons",
+      "fallback": "Any Waxed Copper Button"
+    },
+    "item": "friendsandfoes:waxed_copper_button"
+  },
+  "objectives": [
+
+    "friendsandfoes:waxed_copper_button",
+    "friendsandfoes:exposed_waxed_copper_button",
+    "friendsandfoes:oxidized_waxed_copper_button",
+    "friendsandfoes:weathered_waxed_copper_button"
+
+  ]
+}

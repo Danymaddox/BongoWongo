@@ -1,0 +1,34 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.chorus",
+      "fallback": "Any Chorus"
+    },
+    "item": "minecraft:chorus_fruit"
+  },
+  "objectives": [
+
+    "#c:shulker_boxes",
+    "minecraft:chorus_flower",
+    "minecraft:chorus_flower",
+    "minecraft:chorus_fruit",
+    "minecraft:chorus_fruit",
+    "minecraft:end_stone_brick_slab",
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar",
+    "minecraft:purpur_slab",
+    "minecraft:purpur_stairs",
+    "minecraft:shulker_shell",
+    "minecraft:silence_armor_trim_smithing_template",
+    "minecraft:ward_armor_trim_smithing_template",
+    "supplementaries:end_stone_lamp"
+
+  ]
+}

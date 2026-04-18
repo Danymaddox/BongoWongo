@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_trapdoors",
+      "fallback": "Any Basic Trapdoor"
+    },
+    "item": "minecraft:oak_trapdoor"
+  },
+  "objectives": [
+
+    "minecraft:acacia_trapdoor",
+    "minecraft:birch_trapdoor",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:jungle_trapdoor",
+    "minecraft:oak_trapdoor",
+    "minecraft:spruce_trapdoor"
+
+  ]
+}

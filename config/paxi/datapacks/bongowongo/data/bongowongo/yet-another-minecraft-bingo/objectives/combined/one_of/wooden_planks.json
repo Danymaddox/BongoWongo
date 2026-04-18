@@ -1,0 +1,25 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_planks",
+      "fallback": "Any Basic Planks"
+    },
+    "item": "minecraft:oak_planks"
+  },
+  "objectives": [
+
+    "minecraft:acacia_planks",
+    "minecraft:birch_planks",
+    "minecraft:cherry_planks",
+    "minecraft:crimson_planks",
+    "minecraft:dark_oak_planks",
+    "minecraft:jungle_planks",
+    "minecraft:mangrove_planks",
+    "minecraft:oak_planks",
+    "minecraft:pale_oak_planks",
+    "minecraft:spruce_planks",
+    "minecraft:warped_planks"
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_signs_rare",
+      "fallback": "Any Rare Sign"
+    },
+    "item": "minecraft:cherry_sign"
+  },
+  "objectives": [
+
+    "minecraft:bamboo_sign",
+    "minecraft:cherry_sign",
+    "minecraft:mangrove_sign",
+    "minecraft:pale_oak_sign"
+
+  ]
+}

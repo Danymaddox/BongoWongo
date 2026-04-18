@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_lime",
+      "fallback": "Any Lime Item"
+    },
+    "item": "minecraft:lime_wool"
+  },
+  "objectives": [
+
+    "#c:dyed/lime"
+
+  ]
+}

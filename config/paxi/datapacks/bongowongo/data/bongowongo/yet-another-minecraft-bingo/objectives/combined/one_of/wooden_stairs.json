@@ -1,0 +1,20 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.wooden_stairs",
+      "fallback": "Any Basic Stairs"
+    },
+    "item": "minecraft:oak_stairs"
+  },
+  "objectives": [
+
+    "minecraft:acacia_stairs",
+    "minecraft:birch_stairs",
+    "minecraft:dark_oak_stairs",
+    "minecraft:jungle_stairs",
+    "minecraft:oak_stairs",
+    "minecraft:spruce_stairs"
+
+  ]
+}

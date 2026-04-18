@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.blackstone_slabs",
+      "fallback": "Any Blackstone Slab"
+    },
+    "item": "minecraft:blackstone_slab"
+  },
+  "objectives": [
+
+    "minecraft:blackstone_slab",
+    "minecraft:polished_blackstone_brick_slab",
+    "minecraft:polished_blackstone_slab",
+    "supplementaries:blackstone_tile_slab",
+    "supplementaries:checker_slab"
+
+  ]
+}

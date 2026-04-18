@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.deepslate_stairs",
+      "fallback": "Any Deepslate Stairs"
+    },
+    "item": "minecraft:deepslate_stairs"
+  },
+  "objectives": [
+
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:deepslate_brick_stairs",
+    "minecraft:deepslate_tile_stairs",
+    "minecraft:polished_deepslate_stairs"
+
+  ]
+}

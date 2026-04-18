@@ -1,0 +1,19 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.leaves_rare",
+      "fallback": "Any Rare Leaves"
+    },
+    "item": "minecraft:cherry_leaves"
+  },
+  "objectives": [
+
+    "minecraft:mangrove_leaves",
+    "minecraft:cherry_leaves",
+    "minecraft:pale_oak_leaves",
+    "minecraft:azalea_leaves",
+    "minecraft:flowering_azalea_leaves"
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.all_brown",
+      "fallback": "Any Brown Item"
+    },
+    "item": "minecraft:brown_wool"
+  },
+  "objectives": [
+
+    "#minecraft:saplings"
+
+  ]
+}

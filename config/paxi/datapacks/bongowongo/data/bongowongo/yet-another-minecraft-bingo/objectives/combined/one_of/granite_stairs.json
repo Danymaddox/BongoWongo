@@ -1,0 +1,15 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.granite_stairs",
+      "fallback": "Any Granite Stairs"
+    },
+    "item": "minecraft:granite_stairs"
+  },
+  "objectives": [
+
+    "minecraft:granite_stairs",
+    "minecraft:polished_granite_stairs"
+  ]
+}

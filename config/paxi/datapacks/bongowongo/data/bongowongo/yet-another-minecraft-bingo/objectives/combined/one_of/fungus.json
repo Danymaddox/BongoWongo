@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.fungus",
+      "fallback": "Any Nether Fungus"
+    },
+    "item": "minecraft:warped_fungus"
+  },
+  "objectives": [
+
+    "minecraft:crimson_fungus",
+    "minecraft:warped_fungus"
+
+  ]
+}

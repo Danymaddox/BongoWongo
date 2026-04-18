@@ -1,0 +1,16 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.red_sandstone_stairs",
+      "fallback": "Any Red Sandstone Stairs"
+    },
+    "item": "minecraft:red_sandstone_stairs"
+  },
+  "objectives": [
+
+    "minecraft:red_sandstone_stairs",
+    "minecraft:smooth_red_sandstone_stairs"
+
+  ]
+}

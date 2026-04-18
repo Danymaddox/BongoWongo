@@ -1,0 +1,18 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.waxed_copper_stairs",
+      "fallback": "Any Waxed Copper Stairs"
+    },
+    "item": "minecraft:waxed_copper_stairs"
+  },
+  "objectives": [
+
+    "minecraft:waxed_copper_stairs",
+    "minecraft:waxed_exposed_copper_stairs",
+    "minecraft:waxed_oxidized_copper_stairs",
+    "minecraft:waxed_weathered_copper_stairs"
+
+  ]
+}

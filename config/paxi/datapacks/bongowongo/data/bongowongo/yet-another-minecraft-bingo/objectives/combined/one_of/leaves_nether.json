@@ -1,0 +1,17 @@
+{
+  "type": "one_of",
+  "display": {
+    "name": {
+      "translate": "bingo.objective.combined.one_of.leaves_nether",
+      "fallback": "Any Nether Leaves"
+    },
+    "item": "minecraft:warped_wart_block"
+  },
+  "objectives": [
+
+    "minecraft:nether_wart_block",
+    "minecraft:warped_wart_block",
+    "minecraft:shroomlight"
+
+  ]
+}
