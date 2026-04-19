@@ -3,7 +3,7 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": "^usercache\\.json$",
+      "pattern": "^testseborra\\.json$",
       "path": "."
     }
   ]
