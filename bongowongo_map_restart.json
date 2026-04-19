@@ -1,0 +1,15 @@
+{
+  "sync_version": 3,
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^usercache\\.json$",
+      "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^logs/.*\\.log$",
+      "path": "."
+    }
+  ]
+}
