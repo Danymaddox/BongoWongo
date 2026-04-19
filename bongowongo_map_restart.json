@@ -3,8 +3,8 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": ".*",
-      "path": "journeymap/data"
+      "pattern": "^journeymap/.*$",
+      "path": "."
     }
   ]
 }
