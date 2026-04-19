@@ -3,8 +3,8 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": "^.*\\.log$",
-      "path": "."
+      "pattern": "^testseborra\\.json$",
+      "path": "\\logs"
     }
   ]
 }
