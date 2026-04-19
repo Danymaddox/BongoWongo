@@ -1,0 +1,10 @@
+{
+  "sync_version": 3,
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^journeymap/.*$",
+      "path": "."
+    }
+  ]
+}
