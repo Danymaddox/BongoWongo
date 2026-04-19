@@ -4,7 +4,7 @@
     {
       "type": "remove",
       "pattern": ".",
-      "path": "^journeymap/.*$"
+      "path": "journeymap/.*"
     }
   ]
 }
