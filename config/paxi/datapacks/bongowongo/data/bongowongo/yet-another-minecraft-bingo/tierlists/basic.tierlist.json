@@ -460,6 +460,8 @@
         	"bongowongo:combined/one_of/all_wood_nether"
         ],
         [
+            "minecraft:resin_clump",
+            "minecraft:resin_brick",
             "minecraft:resin_brick_slab",
             "minecraft:resin_brick_stairs",
             "minecraft:resin_brick_wall",
@@ -468,48 +470,50 @@
             "minecraft:resin_block"
         ],
         [
-            "minecraft:acacia_planks",
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
             "minecraft:birch_planks",
+            "minecraft:acacia_planks",
             "minecraft:cherry_planks",
             "minecraft:dark_oak_planks",
             "minecraft:jungle_planks",
             "minecraft:mangrove_planks",
-            "minecraft:oak_planks",
-            "minecraft:pale_oak_planks",
-            "minecraft:spruce_planks"
+            "minecraft:pale_oak_planks"
+
         ],
         [
+            "bongowongo:combined/one_of/all_chorus",
             "minecraft:purpur_block",
-            "minecraft:purpur_pillar",
-            "bongowongo:combined/one_of/all_chorus"
+            "minecraft:purpur_pillar"
         ],
         [
-            "minecraft:acacia_sapling",
-            "minecraft:birch_sapling",
-            "minecraft:cherry_sapling",
-            "minecraft:dark_oak_sapling",
-            "minecraft:jungle_sapling",
             "minecraft:oak_sapling",
-            "minecraft:pale_oak_sapling",
-            "minecraft:spruce_sapling"
+            "minecraft:birch_sapling",
+            "minecraft:spruce_sapling",
+            "minecraft:dark_oak_sapling",
+            "minecraft:cherry_sapling",
+            "minecraft:jungle_sapling",
+            "minecraft:acacia_sapling",
+            "minecraft:pale_oak_sapling"
         ],
         [
             "minecraft:shulker_box",
             "minecraft:shulker_shell"
         ],
         [
-            "minecraft:crimson_nylium",
-            "minecraft:bee_nest",
             "minecraft:grass_block",
-            "minecraft:mycelium",
             "minecraft:podzol",
+            "minecraft:mycelium",
+            "minecraft:crimson_nylium",
+            "minecraft:warped_nylium",
+            "minecraft:bee_nest",
             "minecraft:red_mushroom_block",
             "minecraft:brown_mushroom_block"
         ],
         [
-            "minecraft:blue_ice",
             "minecraft:ice",
-            "minecraft:packed_ice"
+            "minecraft:packed_ice",
+            "minecraft:blue_ice"
         ],
         [
             "minecraft:coal_ore",
@@ -542,23 +546,25 @@
             "minecraft:smooth_basalt"
         ],
         [
-            "minecraft:dark_prismarine",
+
             "minecraft:prismarine",
+            "minecraft:sea_lantern",
+            "minecraft:dark_prismarine",
             "minecraft:prismarine_bricks",
             "minecraft:prismarine_crystals",
-            "minecraft:prismarine_shard",
-            "minecraft:sea_lantern"
+            "minecraft:prismarine_shard"
+            
         ],
         [
-            "bongowongo:combined/one_of/candle_holder",
         	"bongowongo:combined/one_of/candle",
+            "bongowongo:combined/one_of/candle_holder",
         	"bongowongo:combined/one_of/all_candles",
         	"bongowongo:combined/one_of/gold_candle_holder",
             "bongowongo:combined/one_of/honey",
         	"bongowongo:combined/one_of/beehives"
         ],
         [
-             "bongowongo:combined/one_of/horse_armor",
+            "bongowongo:combined/one_of/horse_armor",
         	"bongowongo:combined/one_of/horse_dragonfly_armor",
         	"bongowongo:combined/one_of/dragonfly_armor"
         ],
@@ -572,8 +578,8 @@
         ],
         [
             "minecraft:azalea",
-            "minecraft:azalea_leaves",
             "minecraft:flowering_azalea",
+            "minecraft:azalea_leaves",
             "minecraft:flowering_azalea_leaves"
         ],
         [
@@ -597,8 +603,8 @@
             "bongowongo:combined/one_of/all_buckets"
         ],
         [
-            "bongowongo:combined/one_of/harness",
             "bongowongo:combined/one_of/horse_armor",
+            "bongowongo:combined/one_of/harness",
             "bongowongo:combined/one_of/dragonfly_armor"
         ],
         [
@@ -634,21 +640,21 @@
             "bongowongo:combined/one_of/end_stone"
         ],
         [
+        	"bongowongo:combined/one_of/glass",
+            "bongowongo:combined/one_of/all_glass",
             "bongowongo:combined/one_of/terracotta",
         	"bongowongo:combined/one_of/glass_pane",
-        	"bongowongo:combined/one_of/glass",
         	"bongowongo:combined/one_of/glazed_terracotta",
-        	"bongowongo:combined/one_of/all_glass",
         	"bongowongo:combined/one_of/all_terracotta"
         ],
         [
             "minecraft:mud",
+            "minecraft:packed_mud",
+            "minecraft:muddy_mangrove_roots",
             "minecraft:mud_bricks",
             "minecraft:mud_bricks_slab",
             "minecraft:mud_bricks_stairs",
-            "minecraft:mud_bricks_wall",
-            "minecraft:muddy_mangrove_roots",
-            "minecraft:packed_mud"
+            "minecraft:mud_bricks_wall"
         ],
         [
             "minecraft:rabbit",
